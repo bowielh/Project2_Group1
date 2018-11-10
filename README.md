@@ -1,4 +1,4 @@
-##Group 1: Bowie Hand, Darya Rudych, Jessica Serna, Lu Wang, Shweta Banerjee, Yedidya Erque
+## Group 1: Bowie Hand, Darya Rudych, Jessica Serna, Lu Wang, Shweta Banerjee, Yedidya Erque
 
 # Project Title: Impacts of Marijuana Legalization
 
