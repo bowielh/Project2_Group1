@@ -1,1273 +1,1273 @@
-,Industry,variable,value
-0,All industry total,2005:Q1,12736291
-1,  Private industries,2005:Q1,11108702
-2,"      Agriculture, forestry, fishing, and hunting",2005:Q1,129116
-3,"      Mining, quarrying, and oil and gas extraction",2005:Q1,197570
-4,      Utilities,2005:Q1,195184
-5,      Construction,2005:Q1,631084
-6,      Manufacturing,2005:Q1,1681311
-7,          Durable goods manufacturing,2005:Q1,947377
-8,          Nondurable goods manufacturing,2005:Q1,733934
-9,      Wholesale trade,2005:Q1,747324
-10,      Retail trade,2005:Q1,831978
-11,      Transportation and warehousing,2005:Q1,357536
-12,      Information,2005:Q1,639735
-13,      Finance and insurance,2005:Q1,954946
-14,      Real estate and rental and leasing,2005:Q1,1622049
-15,"      Professional, scientific, and technical services",2005:Q1,826866
-16,      Management of companies and enterprises,2005:Q1,213683
-17,      Administrative and support and waste management and remediation services,2005:Q1,370319
-18,      Educational services,2005:Q1,118840
-19,      Health care and social assistance,2005:Q1,812908
-20,"      Arts, entertainment, and recreation",2005:Q1,118807
-21,      Accommodation and food services,2005:Q1,352691
-22,      Other services (except government and government enterprises),2005:Q1,306755
-23,  Government and government enterprises,2005:Q1,1627589
-24,All industry total,2005:Q2,12896006
-25,  Private industries,2005:Q2,11255828
-26,"      Agriculture, forestry, fishing, and hunting",2005:Q2,129700
-27,"      Mining, quarrying, and oil and gas extraction",2005:Q2,211438
-28,      Utilities,2005:Q2,192996
-29,      Construction,2005:Q2,646391
-30,      Manufacturing,2005:Q2,1679406
-31,          Durable goods manufacturing,2005:Q2,950023
-32,          Nondurable goods manufacturing,2005:Q2,729383
-33,      Wholesale trade,2005:Q2,750357
-34,      Retail trade,2005:Q2,842320
-35,      Transportation and warehousing,2005:Q2,368204
-36,      Information,2005:Q2,650115
-37,      Finance and insurance,2005:Q2,979744
-38,      Real estate and rental and leasing,2005:Q2,1644481
-39,"      Professional, scientific, and technical services",2005:Q2,834990
-40,      Management of companies and enterprises,2005:Q2,216267
-41,      Administrative and support and waste management and remediation services,2005:Q2,379133
-42,      Educational services,2005:Q2,120306
-43,      Health care and social assistance,2005:Q2,822367
-44,"      Arts, entertainment, and recreation",2005:Q2,121322
-45,      Accommodation and food services,2005:Q2,356527
-46,      Other services (except government and government enterprises),2005:Q2,309764
-47,  Government and government enterprises,2005:Q2,1640178
-48,All industry total,2005:Q3,13126480
-49,  Private industries,2005:Q3,11469681
-50,"      Agriculture, forestry, fishing, and hunting",2005:Q3,129232
-51,"      Mining, quarrying, and oil and gas extraction",2005:Q3,233826
-52,      Utilities,2005:Q3,203485
-53,      Construction,2005:Q3,665914
-54,      Manufacturing,2005:Q3,1715191
-55,          Durable goods manufacturing,2005:Q3,963696
-56,          Nondurable goods manufacturing,2005:Q3,751495
-57,      Wholesale trade,2005:Q3,763889
-58,      Retail trade,2005:Q3,855415
-59,      Transportation and warehousing,2005:Q3,381907
-60,      Information,2005:Q3,638836
-61,      Finance and insurance,2005:Q3,1007397
-62,      Real estate and rental and leasing,2005:Q3,1663365
-63,"      Professional, scientific, and technical services",2005:Q3,848146
-64,      Management of companies and enterprises,2005:Q3,222485
-65,      Administrative and support and waste management and remediation services,2005:Q3,383980
-66,      Educational services,2005:Q3,121946
-67,      Health care and social assistance,2005:Q3,835349
-68,"      Arts, entertainment, and recreation",2005:Q3,123884
-69,      Accommodation and food services,2005:Q3,361695
-70,      Other services (except government and government enterprises),2005:Q3,313738
-71,  Government and government enterprises,2005:Q3,1656799
-72,All industry total,2005:Q4,13301844
-73,  Private industries,2005:Q4,11630952
-74,"      Agriculture, forestry, fishing, and hunting",2005:Q4,126234
-75,"      Mining, quarrying, and oil and gas extraction",2005:Q4,263751
-76,      Utilities,2005:Q4,213742
-77,      Construction,2005:Q4,673029
-78,      Manufacturing,2005:Q4,1740784
-79,          Durable goods manufacturing,2005:Q4,976795
-80,          Nondurable goods manufacturing,2005:Q4,763989
-81,      Wholesale trade,2005:Q4,775905
-82,      Retail trade,2005:Q4,865356
-83,      Transportation and warehousing,2005:Q4,392827
-84,      Information,2005:Q4,637523
-85,      Finance and insurance,2005:Q4,1025289
-86,      Real estate and rental and leasing,2005:Q4,1666954
-87,"      Professional, scientific, and technical services",2005:Q4,861270
-88,      Management of companies and enterprises,2005:Q4,224944
-89,      Administrative and support and waste management and remediation services,2005:Q4,388762
-90,      Educational services,2005:Q4,122907
-91,      Health care and social assistance,2005:Q4,844894
-92,"      Arts, entertainment, and recreation",2005:Q4,125032
-93,      Accommodation and food services,2005:Q4,365124
-94,      Other services (except government and government enterprises),2005:Q4,316625
-95,  Government and government enterprises,2005:Q4,1670892
-96,All industry total,2006:Q1,13567564
-97,  Private industries,2006:Q1,11867770
-98,"      Agriculture, forestry, fishing, and hunting",2006:Q1,123268
-99,"      Mining, quarrying, and oil and gas extraction",2006:Q1,268233
-100,      Utilities,2006:Q1,223399
-101,      Construction,2006:Q1,700067
-102,      Manufacturing,2006:Q1,1789106
-103,          Durable goods manufacturing,2006:Q1,1005485
-104,          Nondurable goods manufacturing,2006:Q1,783622
-105,      Wholesale trade,2006:Q1,796904
-106,      Retail trade,2006:Q1,875568
-107,      Transportation and warehousing,2006:Q1,399429
-108,      Information,2006:Q1,630680
-109,      Finance and insurance,2006:Q1,1046555
-110,      Real estate and rental and leasing,2006:Q1,1676171
-111,"      Professional, scientific, and technical services",2006:Q1,889036
-112,      Management of companies and enterprises,2006:Q1,233332
-113,      Administrative and support and waste management and remediation services,2006:Q1,395786
-114,      Educational services,2006:Q1,127202
-115,      Health care and social assistance,2006:Q1,867698
-116,"      Arts, entertainment, and recreation",2006:Q1,128442
-117,      Accommodation and food services,2006:Q1,375212
-118,      Other services (except government and government enterprises),2006:Q1,321680
-119,  Government and government enterprises,2006:Q1,1699795
-120,All industry total,2006:Q2,13717577
-121,  Private industries,2006:Q2,12000493
-122,"      Agriculture, forestry, fishing, and hunting",2006:Q2,126870
-123,"      Mining, quarrying, and oil and gas extraction",2006:Q2,273125
-124,      Utilities,2006:Q2,229910
-125,      Construction,2006:Q2,700263
-126,      Manufacturing,2006:Q2,1809013
-127,          Durable goods manufacturing,2006:Q2,1005478
-128,          Nondurable goods manufacturing,2006:Q2,803536
-129,      Wholesale trade,2006:Q2,811877
-130,      Retail trade,2006:Q2,878114
-131,      Transportation and warehousing,2006:Q2,407035
-132,      Information,2006:Q2,649429
-133,      Finance and insurance,2006:Q2,1040676
-134,      Real estate and rental and leasing,2006:Q2,1699742
-135,"      Professional, scientific, and technical services",2006:Q2,896638
-136,      Management of companies and enterprises,2006:Q2,237736
-137,      Administrative and support and waste management and remediation services,2006:Q2,396374
-138,      Educational services,2006:Q2,129158
-139,      Health care and social assistance,2006:Q2,880325
-140,"      Arts, entertainment, and recreation",2006:Q2,129923
-141,      Accommodation and food services,2006:Q2,378396
-142,      Other services (except government and government enterprises),2006:Q2,325890
-143,  Government and government enterprises,2006:Q2,1717084
-144,All industry total,2006:Q3,13825350
-145,  Private industries,2006:Q3,12088128
-146,"      Agriculture, forestry, fishing, and hunting",2006:Q3,130169
-147,"      Mining, quarrying, and oil and gas extraction",2006:Q3,277486
-148,      Utilities,2006:Q3,235233
-149,      Construction,2006:Q3,693016
-150,      Manufacturing,2006:Q3,1805602
-151,          Durable goods manufacturing,2006:Q3,995580
-152,          Nondurable goods manufacturing,2006:Q3,810022
-153,      Wholesale trade,2006:Q3,822404
-154,      Retail trade,2006:Q3,879677
-155,      Transportation and warehousing,2006:Q3,409404
-156,      Information,2006:Q3,662111
-157,      Finance and insurance,2006:Q3,1045043
-158,      Real estate and rental and leasing,2006:Q3,1732717
-159,"      Professional, scientific, and technical services",2006:Q3,905693
-160,      Management of companies and enterprises,2006:Q3,238102
-161,      Administrative and support and waste management and remediation services,2006:Q3,398518
-162,      Educational services,2006:Q3,130722
-163,      Health care and social assistance,2006:Q3,885894
-164,"      Arts, entertainment, and recreation",2006:Q3,129950
-165,      Accommodation and food services,2006:Q3,379857
-166,      Other services (except government and government enterprises),2006:Q3,326529
-167,  Government and government enterprises,2006:Q3,1737222
-168,All industry total,2006:Q4,13982428
-169,  Private industries,2006:Q4,12225409
-170,"      Agriculture, forestry, fishing, and hunting",2006:Q4,133078
-171,"      Mining, quarrying, and oil and gas extraction",2006:Q4,274778
-172,      Utilities,2006:Q4,231450
-173,      Construction,2006:Q4,699567
-174,      Manufacturing,2006:Q4,1813164
-175,          Durable goods manufacturing,2006:Q4,1014894
-176,          Nondurable goods manufacturing,2006:Q4,798270
-177,      Wholesale trade,2006:Q4,831515
-178,      Retail trade,2006:Q4,878897
-179,      Transportation and warehousing,2006:Q4,414522
-180,      Information,2006:Q4,653848
-181,      Finance and insurance,2006:Q4,1063079
-182,      Real estate and rental and leasing,2006:Q4,1778857
-183,"      Professional, scientific, and technical services",2006:Q4,923571
-184,      Management of companies and enterprises,2006:Q4,244795
-185,      Administrative and support and waste management and remediation services,2006:Q4,406760
-186,      Educational services,2006:Q4,132557
-187,      Health care and social assistance,2006:Q4,898090
-188,"      Arts, entertainment, and recreation",2006:Q4,132801
-189,      Accommodation and food services,2006:Q4,385316
-190,      Other services (except government and government enterprises),2006:Q4,328765
-191,  Government and government enterprises,2006:Q4,1757019
-192,All industry total,2007:Q1,14147927
-193,  Private industries,2007:Q1,12356901
-194,"      Agriculture, forestry, fishing, and hunting",2007:Q1,140721
-195,"      Mining, quarrying, and oil and gas extraction",2007:Q1,280897
-196,      Utilities,2007:Q1,232162
-197,      Construction,2007:Q1,713733
-198,      Manufacturing,2007:Q1,1805377
-199,          Durable goods manufacturing,2007:Q1,1010215
-200,          Nondurable goods manufacturing,2007:Q1,795162
-201,      Wholesale trade,2007:Q1,850442
-202,      Retail trade,2007:Q1,876085
-203,      Transportation and warehousing,2007:Q1,403630
-204,      Information,2007:Q1,669021
-205,      Finance and insurance,2007:Q1,1082867
-206,      Real estate and rental and leasing,2007:Q1,1797317
-207,"      Professional, scientific, and technical services",2007:Q1,935092
-208,      Management of companies and enterprises,2007:Q1,257207
-209,      Administrative and support and waste management and remediation services,2007:Q1,414924
-210,      Educational services,2007:Q1,135539
-211,      Health care and social assistance,2007:Q1,905736
-212,"      Arts, entertainment, and recreation",2007:Q1,135701
-213,      Accommodation and food services,2007:Q1,389988
-214,      Other services (except government and government enterprises),2007:Q1,330463
-215,  Government and government enterprises,2007:Q1,1791026
-216,All industry total,2007:Q2,14336405
-217,  Private industries,2007:Q2,12528769
-218,"      Agriculture, forestry, fishing, and hunting",2007:Q2,136678
-219,"      Mining, quarrying, and oil and gas extraction",2007:Q2,313939
-220,      Utilities,2007:Q2,237026
-221,      Construction,2007:Q2,721586
-222,      Manufacturing,2007:Q2,1863936
-223,          Durable goods manufacturing,2007:Q2,1029966
-224,          Nondurable goods manufacturing,2007:Q2,833969
-225,      Wholesale trade,2007:Q2,861228
-226,      Retail trade,2007:Q2,878845
-227,      Transportation and warehousing,2007:Q2,411137
-228,      Information,2007:Q2,691917
-229,      Finance and insurance,2007:Q2,1055692
-230,      Real estate and rental and leasing,2007:Q2,1812910
-231,"      Professional, scientific, and technical services",2007:Q2,947320
-232,      Management of companies and enterprises,2007:Q2,257875
-233,      Administrative and support and waste management and remediation services,2007:Q2,425450
-234,      Educational services,2007:Q2,137107
-235,      Health care and social assistance,2007:Q2,917121
-236,"      Arts, entertainment, and recreation",2007:Q2,136772
-237,      Accommodation and food services,2007:Q2,392238
-238,      Other services (except government and government enterprises),2007:Q2,329991
-239,  Government and government enterprises,2007:Q2,1807636
-240,All industry total,2007:Q3,14482806
-241,  Private industries,2007:Q3,12654383
-242,"      Agriculture, forestry, fishing, and hunting",2007:Q3,139014
-243,"      Mining, quarrying, and oil and gas extraction",2007:Q3,319191
-244,      Utilities,2007:Q3,239202
-245,      Construction,2007:Q3,719546
-246,      Manufacturing,2007:Q3,1872052
-247,          Durable goods manufacturing,2007:Q3,1046724
-248,          Nondurable goods manufacturing,2007:Q3,825328
-249,      Wholesale trade,2007:Q3,862451
-250,      Retail trade,2007:Q3,878827
-251,      Transportation and warehousing,2007:Q3,407139
-252,      Information,2007:Q3,716902
-253,      Finance and insurance,2007:Q3,1037394
-254,      Real estate and rental and leasing,2007:Q3,1848807
-255,"      Professional, scientific, and technical services",2007:Q3,978901
-256,      Management of companies and enterprises,2007:Q3,260362
-257,      Administrative and support and waste management and remediation services,2007:Q3,436548
-258,      Educational services,2007:Q3,139533
-259,      Health care and social assistance,2007:Q3,932288
-260,"      Arts, entertainment, and recreation",2007:Q3,138742
-261,      Accommodation and food services,2007:Q3,396175
-262,      Other services (except government and government enterprises),2007:Q3,331311
-263,  Government and government enterprises,2007:Q3,1828423
-264,All industry total,2007:Q4,14597471
-265,  Private industries,2007:Q4,12749510
-266,"      Agriculture, forestry, fishing, and hunting",2007:Q4,151584
-267,"      Mining, quarrying, and oil and gas extraction",2007:Q4,342046
-268,      Utilities,2007:Q4,231907
-269,      Construction,2007:Q4,705088
-270,      Manufacturing,2007:Q4,1875956
-271,          Durable goods manufacturing,2007:Q4,1033235
-272,          Nondurable goods manufacturing,2007:Q4,842721
-273,      Wholesale trade,2007:Q4,869251
-274,      Retail trade,2007:Q4,876668
-275,      Transportation and warehousing,2007:Q4,416483
-276,      Information,2007:Q4,731710
-277,      Finance and insurance,2007:Q4,986133
-278,      Real estate and rental and leasing,2007:Q4,1887310
-279,"      Professional, scientific, and technical services",2007:Q4,1007955
-280,      Management of companies and enterprises,2007:Q4,262711
-281,      Administrative and support and waste management and remediation services,2007:Q4,444529
-282,      Educational services,2007:Q4,142500
-283,      Health care and social assistance,2007:Q4,948531
-284,"      Arts, entertainment, and recreation",2007:Q4,139338
-285,      Accommodation and food services,2007:Q4,399468
-286,      Other services (except government and government enterprises),2007:Q4,330343
-287,  Government and government enterprises,2007:Q4,1847961
-288,All industry total,2008:Q1,14578856
-289,  Private industries,2008:Q1,12698222
-290,"      Agriculture, forestry, fishing, and hunting",2008:Q1,165140
-291,"      Mining, quarrying, and oil and gas extraction",2008:Q1,362944
-292,      Utilities,2008:Q1,222079
-293,      Construction,2008:Q1,670524
-294,      Manufacturing,2008:Q1,1814539
-295,          Durable goods manufacturing,2008:Q1,1009200
-296,          Nondurable goods manufacturing,2008:Q1,805339
-297,      Wholesale trade,2008:Q1,870558
-298,      Retail trade,2008:Q1,850766
-299,      Transportation and warehousing,2008:Q1,412956
-300,      Information,2008:Q1,726089
-301,      Finance and insurance,2008:Q1,1010799
-302,      Real estate and rental and leasing,2008:Q1,1886395
-303,"      Professional, scientific, and technical services",2008:Q1,1028878
-304,      Management of companies and enterprises,2008:Q1,259054
-305,      Administrative and support and waste management and remediation services,2008:Q1,438943
-306,      Educational services,2008:Q1,144860
-307,      Health care and social assistance,2008:Q1,970416
-308,"      Arts, entertainment, and recreation",2008:Q1,138821
-309,      Accommodation and food services,2008:Q1,395246
-310,      Other services (except government and government enterprises),2008:Q1,329213
-311,  Government and government enterprises,2008:Q1,1880634
-312,All industry total,2008:Q2,14722003
-313,  Private industries,2008:Q2,12822436
-314,"      Agriculture, forestry, fishing, and hunting",2008:Q2,158589
-315,"      Mining, quarrying, and oil and gas extraction",2008:Q2,436859
-316,      Utilities,2008:Q2,237402
-317,      Construction,2008:Q2,655685
-318,      Manufacturing,2008:Q2,1832477
-319,          Durable goods manufacturing,2008:Q2,1006384
-320,          Nondurable goods manufacturing,2008:Q2,826092
-321,      Wholesale trade,2008:Q2,882389
-322,      Retail trade,2008:Q2,858541
-323,      Transportation and warehousing,2008:Q2,418382
-324,      Information,2008:Q2,743977
-325,      Finance and insurance,2008:Q2,953139
-326,      Real estate and rental and leasing,2008:Q2,1895531
-327,"      Professional, scientific, and technical services",2008:Q2,1052258
-328,      Management of companies and enterprises,2008:Q2,260899
-329,      Administrative and support and waste management and remediation services,2008:Q2,438858
-330,      Educational services,2008:Q2,147262
-331,      Health care and social assistance,2008:Q2,985766
-332,"      Arts, entertainment, and recreation",2008:Q2,139492
-333,      Accommodation and food services,2008:Q2,395747
-334,      Other services (except government and government enterprises),2008:Q2,329184
-335,  Government and government enterprises,2008:Q2,1899566
-336,All industry total,2008:Q3,14750202
-337,  Private industries,2008:Q3,12827860
-338,"      Agriculture, forestry, fishing, and hunting",2008:Q3,149507
-339,"      Mining, quarrying, and oil and gas extraction",2008:Q3,443445
-340,      Utilities,2008:Q3,246426
-341,      Construction,2008:Q3,645325
-342,      Manufacturing,2008:Q3,1844838
-343,          Durable goods manufacturing,2008:Q3,998652
-344,          Nondurable goods manufacturing,2008:Q3,846186
-345,      Wholesale trade,2008:Q3,886991
-346,      Retail trade,2008:Q3,863663
-347,      Transportation and warehousing,2008:Q3,423715
-348,      Information,2008:Q3,743838
-349,      Finance and insurance,2008:Q3,889702
-350,      Real estate and rental and leasing,2008:Q3,1897310
-351,"      Professional, scientific, and technical services",2008:Q3,1068651
-352,      Management of companies and enterprises,2008:Q3,263623
-353,      Administrative and support and waste management and remediation services,2008:Q3,439124
-354,      Educational services,2008:Q3,151091
-355,      Health care and social assistance,2008:Q3,1003111
-356,"      Arts, entertainment, and recreation",2008:Q3,140126
-357,      Accommodation and food services,2008:Q3,396533
-358,      Other services (except government and government enterprises),2008:Q3,330839
-359,  Government and government enterprises,2008:Q3,1922342
-360,All industry total,2008:Q4,14455348
-361,  Private industries,2008:Q4,12516212
-362,"      Agriculture, forestry, fishing, and hunting",2008:Q4,144863
-363,"      Mining, quarrying, and oil and gas extraction",2008:Q4,362581
-364,      Utilities,2008:Q4,244150
-365,      Construction,2008:Q4,640402
-366,      Manufacturing,2008:Q4,1764627
-367,          Durable goods manufacturing,2008:Q4,963540
-368,          Nondurable goods manufacturing,2008:Q4,801087
-369,      Wholesale trade,2008:Q4,871316
-370,      Retail trade,2008:Q4,851473
-371,      Transportation and warehousing,2008:Q4,434353
-372,      Information,2008:Q4,708030
-373,      Finance and insurance,2008:Q4,775263
-374,      Real estate and rental and leasing,2008:Q4,1909933
-375,"      Professional, scientific, and technical services",2008:Q4,1063558
-376,      Management of companies and enterprises,2008:Q4,262489
-377,      Administrative and support and waste management and remediation services,2008:Q4,436020
-378,      Educational services,2008:Q4,153928
-379,      Health care and social assistance,2008:Q4,1024799
-380,"      Arts, entertainment, and recreation",2008:Q4,142095
-381,      Accommodation and food services,2008:Q4,392194
-382,      Other services (except government and government enterprises),2008:Q4,334137
-383,  Government and government enterprises,2008:Q4,1939136
-384,All industry total,2009:Q1,14287426
-385,  Private industries,2009:Q1,12337256
-386,"      Agriculture, forestry, fishing, and hunting",2009:Q1,130316
-387,"      Mining, quarrying, and oil and gas extraction",2009:Q1,301473
-388,      Utilities,2009:Q1,256532
-389,      Construction,2009:Q1,606301
-390,      Manufacturing,2009:Q1,1711022
-391,          Durable goods manufacturing,2009:Q1,891668
-392,          Nondurable goods manufacturing,2009:Q1,819354
-393,      Wholesale trade,2009:Q1,828839
-394,      Retail trade,2009:Q1,837118
-395,      Transportation and warehousing,2009:Q1,405638
-396,      Information,2009:Q1,703105
-397,      Finance and insurance,2009:Q1,909720
-398,      Real estate and rental and leasing,2009:Q1,1914623
-399,"      Professional, scientific, and technical services",2009:Q1,1024989
-400,      Management of companies and enterprises,2009:Q1,239603
-401,      Administrative and support and waste management and remediation services,2009:Q1,418504
-402,      Educational services,2009:Q1,161084
-403,      Health care and social assistance,2009:Q1,1035587
-404,"      Arts, entertainment, and recreation",2009:Q1,139247
-405,      Accommodation and food services,2009:Q1,383197
-406,      Other services (except government and government enterprises),2009:Q1,330356
-407,  Government and government enterprises,2009:Q1,1950170
-408,All industry total,2009:Q2,14242156
-409,  Private industries,2009:Q2,12277731
-410,"      Agriculture, forestry, fishing, and hunting",2009:Q2,132240
-411,"      Mining, quarrying, and oil and gas extraction",2009:Q2,275880
-412,      Utilities,2009:Q2,246350
-413,      Construction,2009:Q2,580832
-414,      Manufacturing,2009:Q2,1699522
-415,          Durable goods manufacturing,2009:Q2,861673
-416,          Nondurable goods manufacturing,2009:Q2,837848
-417,      Wholesale trade,2009:Q2,811806
-418,      Retail trade,2009:Q2,837674
-419,      Transportation and warehousing,2009:Q2,393143
-420,      Information,2009:Q2,699738
-421,      Finance and insurance,2009:Q2,980602
-422,      Real estate and rental and leasing,2009:Q2,1902377
-423,"      Professional, scientific, and technical services",2009:Q2,999642
-424,      Management of companies and enterprises,2009:Q2,245488
-425,      Administrative and support and waste management and remediation services,2009:Q2,411009
-426,      Educational services,2009:Q2,162598
-427,      Health care and social assistance,2009:Q2,1048725
-428,"      Arts, entertainment, and recreation",2009:Q2,137912
-429,      Accommodation and food services,2009:Q2,382516
-430,      Other services (except government and government enterprises),2009:Q2,329678
-431,  Government and government enterprises,2009:Q2,1964425
-432,All industry total,2009:Q3,14284750
-433,  Private industries,2009:Q3,12312673
-434,"      Agriculture, forestry, fishing, and hunting",2009:Q3,137955
-435,"      Mining, quarrying, and oil and gas extraction",2009:Q3,280006
-436,      Utilities,2009:Q3,243881
-437,      Construction,2009:Q3,570516
-438,      Manufacturing,2009:Q3,1724641
-439,          Durable goods manufacturing,2009:Q3,858853
-440,          Nondurable goods manufacturing,2009:Q3,865788
-441,      Wholesale trade,2009:Q3,814003
-442,      Retail trade,2009:Q3,836315
-443,      Transportation and warehousing,2009:Q3,393380
-444,      Information,2009:Q3,698646
-445,      Finance and insurance,2009:Q3,990228
-446,      Real estate and rental and leasing,2009:Q3,1903757
-447,"      Professional, scientific, and technical services",2009:Q3,991014
-448,      Management of companies and enterprises,2009:Q3,250776
-449,      Administrative and support and waste management and remediation services,2009:Q3,409015
-450,      Educational services,2009:Q3,163422
-451,      Health care and social assistance,2009:Q3,1053877
-452,"      Arts, entertainment, and recreation",2009:Q3,139272
-453,      Accommodation and food services,2009:Q3,383593
-454,      Other services (except government and government enterprises),2009:Q3,328376
-455,  Government and government enterprises,2009:Q3,1972077
-456,All industry total,2009:Q4,14466139
-457,  Private industries,2009:Q4,12484269
-458,"      Agriculture, forestry, fishing, and hunting",2009:Q4,150120
-459,"      Mining, quarrying, and oil and gas extraction",2009:Q4,304035
-460,      Utilities,2009:Q4,256378
-461,      Construction,2009:Q4,551533
-462,      Manufacturing,2009:Q4,1771665
-463,          Durable goods manufacturing,2009:Q4,884900
-464,          Nondurable goods manufacturing,2009:Q4,886765
-465,      Wholesale trade,2009:Q4,836734
-466,      Retail trade,2009:Q4,857429
-467,      Transportation and warehousing,2009:Q4,403212
-468,      Information,2009:Q4,719898
-469,      Finance and insurance,2009:Q4,996468
-470,      Real estate and rental and leasing,2009:Q4,1898354
-471,"      Professional, scientific, and technical services",2009:Q4,985804
-472,      Management of companies and enterprises,2009:Q4,252676
-473,      Administrative and support and waste management and remediation services,2009:Q4,416015
-474,      Educational services,2009:Q4,164859
-475,      Health care and social assistance,2009:Q4,1065980
-476,"      Arts, entertainment, and recreation",2009:Q4,138939
-477,      Accommodation and food services,2009:Q4,384541
-478,      Other services (except government and government enterprises),2009:Q4,329630
-479,  Government and government enterprises,2009:Q4,1981870
-480,All industry total,2010:Q1,14579073
-481,  Private industries,2010:Q1,12568053
-482,"      Agriculture, forestry, fishing, and hunting",2010:Q1,149339
-483,"      Mining, quarrying, and oil and gas extraction",2010:Q1,329579
-484,      Utilities,2010:Q1,267397
-485,      Construction,2010:Q1,533281
-486,      Manufacturing,2010:Q1,1784261
-487,          Durable goods manufacturing,2010:Q1,903027
-488,          Nondurable goods manufacturing,2010:Q1,881233
-489,      Wholesale trade,2010:Q1,844443
-490,      Retail trade,2010:Q1,854620
-491,      Transportation and warehousing,2010:Q1,407084
-492,      Information,2010:Q1,714729
-493,      Finance and insurance,2010:Q1,995725
-494,      Real estate and rental and leasing,2010:Q1,1919287
-495,"      Professional, scientific, and technical services",2010:Q1,997818
-496,      Management of companies and enterprises,2010:Q1,260127
-497,      Administrative and support and waste management and remediation services,2010:Q1,427188
-498,      Educational services,2010:Q1,166823
-499,      Health care and social assistance,2010:Q1,1061161
-500,"      Arts, entertainment, and recreation",2010:Q1,141274
-501,      Accommodation and food services,2010:Q1,387320
-502,      Other services (except government and government enterprises),2010:Q1,326597
-503,  Government and government enterprises,2010:Q1,2011021
-504,All industry total,2010:Q2,14784619
-505,  Private industries,2010:Q2,12747020
-506,"      Agriculture, forestry, fishing, and hunting",2010:Q2,156327
-507,"      Mining, quarrying, and oil and gas extraction",2010:Q2,319478
-508,      Utilities,2010:Q2,263210
-509,      Construction,2010:Q2,543343
-510,      Manufacturing,2010:Q2,1814188
-511,          Durable goods manufacturing,2010:Q2,947319
-512,          Nondurable goods manufacturing,2010:Q2,866869
-513,      Wholesale trade,2010:Q2,861545
-514,      Retail trade,2010:Q2,871669
-515,      Transportation and warehousing,2010:Q2,420505
-516,      Information,2010:Q2,721804
-517,      Finance and insurance,2010:Q2,1008039
-518,      Real estate and rental and leasing,2010:Q2,1942603
-519,"      Professional, scientific, and technical services",2010:Q2,1010866
-520,      Management of companies and enterprises,2010:Q2,264259
-521,      Administrative and support and waste management and remediation services,2010:Q2,436229
-522,      Educational services,2010:Q2,168824
-523,      Health care and social assistance,2010:Q2,1074584
-524,"      Arts, entertainment, and recreation",2010:Q2,144058
-525,      Accommodation and food services,2010:Q2,394603
-526,      Other services (except government and government enterprises),2010:Q2,330885
-527,  Government and government enterprises,2010:Q2,2037599
-528,All industry total,2010:Q3,14952355
-529,  Private industries,2010:Q3,12911587
-530,"      Agriculture, forestry, fishing, and hunting",2010:Q3,164048
-531,"      Mining, quarrying, and oil and gas extraction",2010:Q3,326551
-532,      Utilities,2010:Q3,267778
-533,      Construction,2010:Q3,544791
-534,      Manufacturing,2010:Q3,1848289
-535,          Durable goods manufacturing,2010:Q3,980683
-536,          Nondurable goods manufacturing,2010:Q3,867606
-537,      Wholesale trade,2010:Q3,884318
-538,      Retail trade,2010:Q3,871774
-539,      Transportation and warehousing,2010:Q3,433419
-540,      Information,2010:Q3,742477
-541,      Finance and insurance,2010:Q3,996196
-542,      Real estate and rental and leasing,2010:Q3,1947982
-543,"      Professional, scientific, and technical services",2010:Q3,1032424
-544,      Management of companies and enterprises,2010:Q3,269780
-545,      Administrative and support and waste management and remediation services,2010:Q3,443994
-546,      Educational services,2010:Q3,170341
-547,      Health care and social assistance,2010:Q3,1087099
-548,"      Arts, entertainment, and recreation",2010:Q3,145098
-549,      Accommodation and food services,2010:Q3,399866
-550,      Other services (except government and government enterprises),2010:Q3,335361
-551,  Government and government enterprises,2010:Q3,2040768
-552,All industry total,2010:Q4,15123078
-553,  Private industries,2010:Q4,13079407
-554,"      Agriculture, forestry, fishing, and hunting",2010:Q4,171151
-555,"      Mining, quarrying, and oil and gas extraction",2010:Q4,351274
-556,      Utilities,2010:Q4,269561
-557,      Construction,2010:Q4,545053
-558,      Manufacturing,2010:Q4,1875602
-559,          Durable goods manufacturing,2010:Q4,995353
-560,          Nondurable goods manufacturing,2010:Q4,880250
-561,      Wholesale trade,2010:Q4,883571
-562,      Retail trade,2010:Q4,877135
-563,      Transportation and warehousing,2010:Q4,439517
-564,      Information,2010:Q4,741707
-565,      Finance and insurance,2010:Q4,1023366
-566,      Real estate and rental and leasing,2010:Q4,1973012
-567,"      Professional, scientific, and technical services",2010:Q4,1046937
-568,      Management of companies and enterprises,2010:Q4,278655
-569,      Administrative and support and waste management and remediation services,2010:Q4,450621
-570,      Educational services,2010:Q4,171097
-571,      Health care and social assistance,2010:Q4,1093909
-572,"      Arts, entertainment, and recreation",2010:Q4,147353
-573,      Accommodation and food services,2010:Q4,403110
-574,      Other services (except government and government enterprises),2010:Q4,336778
-575,  Government and government enterprises,2010:Q4,2043671
-576,All industry total,2011:Q1,15128719
-577,  Private industries,2011:Q1,13080044
-578,"      Agriculture, forestry, fishing, and hunting",2011:Q1,197945
-579,"      Mining, quarrying, and oil and gas extraction",2011:Q1,368143
-580,      Utilities,2011:Q1,260551
-581,      Construction,2011:Q1,528734
-582,      Manufacturing,2011:Q1,1864719
-583,          Durable goods manufacturing,2011:Q1,990682
-584,          Nondurable goods manufacturing,2011:Q1,874037
-585,      Wholesale trade,2011:Q1,886396
-586,      Retail trade,2011:Q1,878657
-587,      Transportation and warehousing,2011:Q1,439807
-588,      Information,2011:Q1,724506
-589,      Finance and insurance,2011:Q1,1029270
-590,      Real estate and rental and leasing,2011:Q1,1961220
-591,"      Professional, scientific, and technical services",2011:Q1,1052980
-592,      Management of companies and enterprises,2011:Q1,281194
-593,      Administrative and support and waste management and remediation services,2011:Q1,450450
-594,      Educational services,2011:Q1,173675
-595,      Health care and social assistance,2011:Q1,1095671
-596,"      Arts, entertainment, and recreation",2011:Q1,146083
-597,      Accommodation and food services,2011:Q1,405407
-598,      Other services (except government and government enterprises),2011:Q1,334637
-599,  Government and government enterprises,2011:Q1,2048675
-600,All industry total,2011:Q2,15349070
-601,  Private industries,2011:Q2,13289142
-602,"      Agriculture, forestry, fishing, and hunting",2011:Q2,192318
-603,"      Mining, quarrying, and oil and gas extraction",2011:Q2,402291
-604,      Utilities,2011:Q2,273680
-605,      Construction,2011:Q2,542614
-606,      Manufacturing,2011:Q2,1899002
-607,          Durable goods manufacturing,2011:Q2,991029
-608,          Nondurable goods manufacturing,2011:Q2,907972
-609,      Wholesale trade,2011:Q2,904575
-610,      Retail trade,2011:Q2,885093
-611,      Transportation and warehousing,2011:Q2,445666
-612,      Information,2011:Q2,731525
-613,      Finance and insurance,2011:Q2,1020119
-614,      Real estate and rental and leasing,2011:Q2,2003067
-615,"      Professional, scientific, and technical services",2011:Q2,1072302
-616,      Management of companies and enterprises,2011:Q2,281589
-617,      Administrative and support and waste management and remediation services,2011:Q2,455285
-618,      Educational services,2011:Q2,174878
-619,      Health care and social assistance,2011:Q2,1108265
-620,"      Arts, entertainment, and recreation",2011:Q2,147471
-621,      Accommodation and food services,2011:Q2,411954
-622,      Other services (except government and government enterprises),2011:Q2,337446
-623,  Government and government enterprises,2011:Q2,2059928
-624,All industry total,2011:Q3,15474084
-625,  Private industries,2011:Q3,13410950
-626,"      Agriculture, forestry, fishing, and hunting",2011:Q3,200378
-627,"      Mining, quarrying, and oil and gas extraction",2011:Q3,402566
-628,      Utilities,2011:Q3,274044
-629,      Construction,2011:Q3,552756
-630,      Manufacturing,2011:Q3,1914398
-631,          Durable goods manufacturing,2011:Q3,1000562
-632,          Nondurable goods manufacturing,2011:Q3,913837
-633,      Wholesale trade,2011:Q3,906655
-634,      Retail trade,2011:Q3,893765
-635,      Transportation and warehousing,2011:Q3,446174
-636,      Information,2011:Q3,726316
-637,      Finance and insurance,2011:Q3,1046999
-638,      Real estate and rental and leasing,2011:Q3,2024485
-639,"      Professional, scientific, and technical services",2011:Q3,1082117
-640,      Management of companies and enterprises,2011:Q3,279664
-641,      Administrative and support and waste management and remediation services,2011:Q3,460538
-642,      Educational services,2011:Q3,176585
-643,      Health care and social assistance,2011:Q3,1117541
-644,"      Arts, entertainment, and recreation",2011:Q3,149890
-645,      Accommodation and food services,2011:Q3,415961
-646,      Other services (except government and government enterprises),2011:Q3,340118
-647,  Government and government enterprises,2011:Q3,2063134
-648,All industry total,2011:Q4,15672175
-649,  Private industries,2011:Q4,13613660
-650,"      Agriculture, forestry, fishing, and hunting",2011:Q4,198324
-651,"      Mining, quarrying, and oil and gas extraction",2011:Q4,421530
-652,      Utilities,2011:Q4,279871
-653,      Construction,2011:Q4,562354
-654,      Manufacturing,2011:Q4,1951132
-655,          Durable goods manufacturing,2011:Q4,1033105
-656,          Nondurable goods manufacturing,2011:Q4,918027
-657,      Wholesale trade,2011:Q4,931402
-658,      Retail trade,2011:Q4,909243
-659,      Transportation and warehousing,2011:Q4,455782
-660,      Information,2011:Q4,731378
-661,      Finance and insurance,2011:Q4,1055718
-662,      Real estate and rental and leasing,2011:Q4,2068841
-663,"      Professional, scientific, and technical services",2011:Q4,1088885
-664,      Management of companies and enterprises,2011:Q4,281731
-665,      Administrative and support and waste management and remediation services,2011:Q4,463791
-666,      Educational services,2011:Q4,176718
-667,      Health care and social assistance,2011:Q4,1124837
-668,"      Arts, entertainment, and recreation",2011:Q4,146483
-669,      Accommodation and food services,2011:Q4,422272
-670,      Other services (except government and government enterprises),2011:Q4,343368
-671,  Government and government enterprises,2011:Q4,2058515
-672,All industry total,2012:Q1,15860001
-673,  Private industries,2012:Q1,13783396
-674,"      Agriculture, forestry, fishing, and hunting",2012:Q1,188993
-675,"      Mining, quarrying, and oil and gas extraction",2012:Q1,417973
-676,      Utilities,2012:Q1,256200
-677,      Construction,2012:Q1,575309
-678,      Manufacturing,2012:Q1,1965656
-679,          Durable goods manufacturing,2012:Q1,1039832
-680,          Nondurable goods manufacturing,2012:Q1,925824
-681,      Wholesale trade,2012:Q1,946058
-682,      Retail trade,2012:Q1,925201
-683,      Transportation and warehousing,2012:Q1,460541
-684,      Information,2012:Q1,729242
-685,      Finance and insurance,2012:Q1,1107933
-686,      Real estate and rental and leasing,2012:Q1,2062848
-687,"      Professional, scientific, and technical services",2012:Q1,1113214
-688,      Management of companies and enterprises,2012:Q1,293832
-689,      Administrative and support and waste management and remediation services,2012:Q1,476085
-690,      Educational services,2012:Q1,181588
-691,      Health care and social assistance,2012:Q1,1144608
-692,"      Arts, entertainment, and recreation",2012:Q1,153790
-693,      Accommodation and food services,2012:Q1,434371
-694,      Other services (except government and government enterprises),2012:Q1,349954
-695,  Government and government enterprises,2012:Q1,2076605
-696,All industry total,2012:Q2,16008016
-697,  Private industries,2012:Q2,13928405
-698,"      Agriculture, forestry, fishing, and hunting",2012:Q2,184405
-699,"      Mining, quarrying, and oil and gas extraction",2012:Q2,403496
-700,      Utilities,2012:Q2,265011
-701,      Construction,2012:Q2,582456
-702,      Manufacturing,2012:Q2,1991351
-703,          Durable goods manufacturing,2012:Q2,1059254
-704,          Nondurable goods manufacturing,2012:Q2,932097
-705,      Wholesale trade,2012:Q2,957977
-706,      Retail trade,2012:Q2,930234
-707,      Transportation and warehousing,2012:Q2,470758
-708,      Information,2012:Q2,748749
-709,      Finance and insurance,2012:Q2,1132746
-710,      Real estate and rental and leasing,2012:Q2,2081344
-711,"      Professional, scientific, and technical services",2012:Q2,1127264
-712,      Management of companies and enterprises,2012:Q2,295678
-713,      Administrative and support and waste management and remediation services,2012:Q2,477763
-714,      Educational services,2012:Q2,182720
-715,      Health care and social assistance,2012:Q2,1148008
-716,"      Arts, entertainment, and recreation",2012:Q2,155853
-717,      Accommodation and food services,2012:Q2,437977
-718,      Other services (except government and government enterprises),2012:Q2,354613
-719,  Government and government enterprises,2012:Q2,2079611
-720,All industry total,2012:Q3,16113941
-721,  Private industries,2012:Q3,14028574
-722,"      Agriculture, forestry, fishing, and hunting",2012:Q3,180226
-723,"      Mining, quarrying, and oil and gas extraction",2012:Q3,403861
-724,      Utilities,2012:Q3,266532
-725,      Construction,2012:Q3,584576
-726,      Manufacturing,2012:Q3,2002608
-727,          Durable goods manufacturing,2012:Q3,1058090
-728,          Nondurable goods manufacturing,2012:Q3,944518
-729,      Wholesale trade,2012:Q3,969546
-730,      Retail trade,2012:Q3,936235
-731,      Transportation and warehousing,2012:Q3,470404
-732,      Information,2012:Q3,743019
-733,      Finance and insurance,2012:Q3,1162030
-734,      Real estate and rental and leasing,2012:Q3,2101894
-735,"      Professional, scientific, and technical services",2012:Q3,1126586
-736,      Management of companies and enterprises,2012:Q3,305067
-737,      Administrative and support and waste management and remediation services,2012:Q3,481647
-738,      Educational services,2012:Q3,183328
-739,      Health care and social assistance,2012:Q3,1155008
-740,"      Arts, entertainment, and recreation",2012:Q3,157796
-741,      Accommodation and food services,2012:Q3,440487
-742,      Other services (except government and government enterprises),2012:Q3,357723
-743,  Government and government enterprises,2012:Q3,2085366
-744,All industry total,2012:Q4,16183016
-745,  Private industries,2012:Q4,14089806
-746,"      Agriculture, forestry, fishing, and hunting",2012:Q4,189574
-747,"      Mining, quarrying, and oil and gas extraction",2012:Q4,418433
-748,      Utilities,2012:Q4,263666
-749,      Construction,2012:Q4,592244
-750,      Manufacturing,2012:Q4,1974955
-751,          Durable goods manufacturing,2012:Q4,1055954
-752,          Nondurable goods manufacturing,2012:Q4,919000
-753,      Wholesale trade,2012:Q4,976520
-754,      Retail trade,2012:Q4,938800
-755,      Transportation and warehousing,2012:Q4,467930
-756,      Information,2012:Q4,728874
-757,      Finance and insurance,2012:Q4,1168026
-758,      Real estate and rental and leasing,2012:Q4,2099118
-759,"      Professional, scientific, and technical services",2012:Q4,1147980
-760,      Management of companies and enterprises,2012:Q4,322548
-761,      Administrative and support and waste management and remediation services,2012:Q4,482707
-762,      Educational services,2012:Q4,184479
-763,      Health care and social assistance,2012:Q4,1167508
-764,"      Arts, entertainment, and recreation",2012:Q4,160571
-765,      Accommodation and food services,2012:Q4,446701
-766,      Other services (except government and government enterprises),2012:Q4,359172
-767,  Government and government enterprises,2012:Q4,2093210
-768,All industry total,2013:Q1,16360908
-769,  Private industries,2013:Q1,14261073
-770,"      Agriculture, forestry, fishing, and hunting",2013:Q1,230408
-771,"      Mining, quarrying, and oil and gas extraction",2013:Q1,430872
-772,      Utilities,2013:Q1,271422
-773,      Construction,2013:Q1,605388
-774,      Manufacturing,2013:Q1,2028157
-775,          Durable goods manufacturing,2013:Q1,1076039
-776,          Nondurable goods manufacturing,2013:Q1,952119
-777,      Wholesale trade,2013:Q1,984906
-778,      Retail trade,2013:Q1,963424
-779,      Transportation and warehousing,2013:Q1,481754
-780,      Information,2013:Q1,782615
-781,      Finance and insurance,2013:Q1,1088400
-782,      Real estate and rental and leasing,2013:Q1,2127499
-783,"      Professional, scientific, and technical services",2013:Q1,1125269
-784,      Management of companies and enterprises,2013:Q1,310367
-785,      Administrative and support and waste management and remediation services,2013:Q1,486531
-786,      Educational services,2013:Q1,182885
-787,      Health care and social assistance,2013:Q1,1182059
-788,"      Arts, entertainment, and recreation",2013:Q1,161724
-789,      Accommodation and food services,2013:Q1,456446
-790,      Other services (except government and government enterprises),2013:Q1,360947
-791,  Government and government enterprises,2013:Q1,2099835
-792,All industry total,2013:Q2,16426749
-793,  Private industries,2013:Q2,14322181
-794,"      Agriculture, forestry, fishing, and hunting",2013:Q2,226443
-795,"      Mining, quarrying, and oil and gas extraction",2013:Q2,446742
-796,      Utilities,2013:Q2,269471
-797,      Construction,2013:Q2,611214
-798,      Manufacturing,2013:Q2,2003840
-799,          Durable goods manufacturing,2013:Q2,1073811
-800,          Nondurable goods manufacturing,2013:Q2,930029
-801,      Wholesale trade,2013:Q2,987875
-802,      Retail trade,2013:Q2,959679
-803,      Transportation and warehousing,2013:Q2,480553
-804,      Information,2013:Q2,787079
-805,      Finance and insurance,2013:Q2,1116483
-806,      Real estate and rental and leasing,2013:Q2,2130391
-807,"      Professional, scientific, and technical services",2013:Q2,1139670
-808,      Management of companies and enterprises,2013:Q2,322260
-809,      Administrative and support and waste management and remediation services,2013:Q2,490222
-810,      Educational services,2013:Q2,184891
-811,      Health care and social assistance,2013:Q2,1182816
-812,"      Arts, entertainment, and recreation",2013:Q2,162491
-813,      Accommodation and food services,2013:Q2,458844
-814,      Other services (except government and government enterprises),2013:Q2,361216
-815,  Government and government enterprises,2013:Q2,2104568
-816,All industry total,2013:Q3,16634711
-817,  Private industries,2013:Q3,14527630
-818,"      Agriculture, forestry, fishing, and hunting",2013:Q3,225678
-819,"      Mining, quarrying, and oil and gas extraction",2013:Q3,468290
-820,      Utilities,2013:Q3,265204
-821,      Construction,2013:Q3,626637
-822,      Manufacturing,2013:Q3,2024396
-823,          Durable goods manufacturing,2013:Q3,1088740
-824,          Nondurable goods manufacturing,2013:Q3,935656
-825,      Wholesale trade,2013:Q3,1008416
-826,      Retail trade,2013:Q3,972139
-827,      Transportation and warehousing,2013:Q3,485976
-828,      Information,2013:Q3,786740
-829,      Finance and insurance,2013:Q3,1140340
-830,      Real estate and rental and leasing,2013:Q3,2173231
-831,"      Professional, scientific, and technical services",2013:Q3,1157246
-832,      Management of companies and enterprises,2013:Q3,326967
-833,      Administrative and support and waste management and remediation services,2013:Q3,498328
-834,      Educational services,2013:Q3,186279
-835,      Health care and social assistance,2013:Q3,1188781
-836,"      Arts, entertainment, and recreation",2013:Q3,164557
-837,      Accommodation and food services,2013:Q3,465035
-838,      Other services (except government and government enterprises),2013:Q3,363390
-839,  Government and government enterprises,2013:Q3,2107081
-840,All industry total,2013:Q4,16884585
-841,  Private industries,2013:Q4,14762978
-842,"      Agriculture, forestry, fishing, and hunting",2013:Q4,204755
-843,"      Mining, quarrying, and oil and gas extraction",2013:Q4,457568
-844,      Utilities,2013:Q4,270558
-845,      Construction,2013:Q4,639880
-846,      Manufacturing,2013:Q4,2084313
-847,          Durable goods manufacturing,2013:Q4,1105434
-848,          Nondurable goods manufacturing,2013:Q4,978880
-849,      Wholesale trade,2013:Q4,1025224
-850,      Retail trade,2013:Q4,979064
-851,      Transportation and warehousing,2013:Q4,500445
-852,      Information,2013:Q4,809550
-853,      Finance and insurance,2013:Q4,1200433
-854,      Real estate and rental and leasing,2013:Q4,2198455
-855,"      Professional, scientific, and technical services",2013:Q4,1170957
-856,      Management of companies and enterprises,2013:Q4,330070
-857,      Administrative and support and waste management and remediation services,2013:Q4,503459
-858,      Educational services,2013:Q4,188368
-859,      Health care and social assistance,2013:Q4,1193540
-860,"      Arts, entertainment, and recreation",2013:Q4,167873
-861,      Accommodation and food services,2013:Q4,470137
-862,      Other services (except government and government enterprises),2013:Q4,368327
-863,  Government and government enterprises,2013:Q4,2121608
-864,All industry total,2014:Q1,16915697
-865,  Private industries,2014:Q1,14775634
-866,"      Agriculture, forestry, fishing, and hunting",2014:Q1,200215
-867,"      Mining, quarrying, and oil and gas extraction",2014:Q1,471041
-868,      Utilities,2014:Q1,283248
-869,      Construction,2014:Q1,653534
-870,      Manufacturing,2014:Q1,2056064
-871,          Durable goods manufacturing,2014:Q1,1096694
-872,          Nondurable goods manufacturing,2014:Q1,959369
-873,      Wholesale trade,2014:Q1,1020200
-874,      Retail trade,2014:Q1,975857
-875,      Transportation and warehousing,2014:Q1,494369
-876,      Information,2014:Q1,786400
-877,      Finance and insurance,2014:Q1,1205553
-878,      Real estate and rental and leasing,2014:Q1,2206160
-879,"      Professional, scientific, and technical services",2014:Q1,1173934
-880,      Management of companies and enterprises,2014:Q1,332110
-881,      Administrative and support and waste management and remediation services,2014:Q1,508958
-882,      Educational services,2014:Q1,190148
-883,      Health care and social assistance,2014:Q1,1200151
-884,"      Arts, entertainment, and recreation",2014:Q1,171391
-885,      Accommodation and food services,2014:Q1,474393
-886,      Other services (except government and government enterprises),2014:Q1,371909
-887,  Government and government enterprises,2014:Q1,2140062
-888,All industry total,2014:Q2,17205444
-889,  Private industries,2014:Q2,15051764
-890,"      Agriculture, forestry, fishing, and hunting",2014:Q2,215163
-891,"      Mining, quarrying, and oil and gas extraction",2014:Q2,494104
-892,      Utilities,2014:Q2,277490
-893,      Construction,2014:Q2,665699
-894,      Manufacturing,2014:Q2,2098598
-895,          Durable goods manufacturing,2014:Q2,1114315
-896,          Nondurable goods manufacturing,2014:Q2,984283
-897,      Wholesale trade,2014:Q2,1042626
-898,      Retail trade,2014:Q2,995088
-899,      Transportation and warehousing,2014:Q2,509535
-900,      Information,2014:Q2,787236
-901,      Finance and insurance,2014:Q2,1247391
-902,      Real estate and rental and leasing,2014:Q2,2238522
-903,"      Professional, scientific, and technical services",2014:Q2,1189549
-904,      Management of companies and enterprises,2014:Q2,329892
-905,      Administrative and support and waste management and remediation services,2014:Q2,518275
-906,      Educational services,2014:Q2,190702
-907,      Health care and social assistance,2014:Q2,1211498
-908,"      Arts, entertainment, and recreation",2014:Q2,174024
-909,      Accommodation and food services,2014:Q2,486441
-910,      Other services (except government and government enterprises),2014:Q2,379930
-911,  Government and government enterprises,2014:Q2,2153680
-912,All industry total,2014:Q3,17506998
-913,  Private industries,2014:Q3,15336910
-914,"      Agriculture, forestry, fishing, and hunting",2014:Q3,199622
-915,"      Mining, quarrying, and oil and gas extraction",2014:Q3,498677
-916,      Utilities,2014:Q3,280637
-917,      Construction,2014:Q3,680551
-918,      Manufacturing,2014:Q3,2149520
-919,          Durable goods manufacturing,2014:Q3,1148164
-920,          Nondurable goods manufacturing,2014:Q3,1001356
-921,      Wholesale trade,2014:Q3,1072936
-922,      Retail trade,2014:Q3,1013426
-923,      Transportation and warehousing,2014:Q3,522808
-924,      Information,2014:Q3,793592
-925,      Finance and insurance,2014:Q3,1264687
-926,      Real estate and rental and leasing,2014:Q3,2277580
-927,"      Professional, scientific, and technical services",2014:Q3,1226065
-928,      Management of companies and enterprises,2014:Q3,339421
-929,      Administrative and support and waste management and remediation services,2014:Q3,527248
-930,      Educational services,2014:Q3,191866
-931,      Health care and social assistance,2014:Q3,1233208
-932,"      Arts, entertainment, and recreation",2014:Q3,177382
-933,      Accommodation and food services,2014:Q3,498590
-934,      Other services (except government and government enterprises),2014:Q3,389095
-935,  Government and government enterprises,2014:Q3,2170087
-936,All industry total,2014:Q4,17621095
-937,  Private industries,2014:Q4,15434178
-938,"      Agriculture, forestry, fishing, and hunting",2014:Q4,202614
-939,"      Mining, quarrying, and oil and gas extraction",2014:Q4,458533
-940,      Utilities,2014:Q4,280942
-941,      Construction,2014:Q4,697930
-942,      Manufacturing,2014:Q4,2141808
-943,          Durable goods manufacturing,2014:Q4,1150705
-944,          Nondurable goods manufacturing,2014:Q4,991103
-945,      Wholesale trade,2014:Q4,1082289
-946,      Retail trade,2014:Q4,1026694
-947,      Transportation and warehousing,2014:Q4,529454
-948,      Information,2014:Q4,799264
-949,      Finance and insurance,2014:Q4,1290336
-950,      Real estate and rental and leasing,2014:Q4,2291396
-951,"      Professional, scientific, and technical services",2014:Q4,1238200
-952,      Management of companies and enterprises,2014:Q4,346589
-953,      Administrative and support and waste management and remediation services,2014:Q4,533672
-954,      Educational services,2014:Q4,193492
-955,      Health care and social assistance,2014:Q4,1245779
-956,"      Arts, entertainment, and recreation",2014:Q4,177581
-957,      Accommodation and food services,2014:Q4,505680
-958,      Other services (except government and government enterprises),2014:Q4,391924
-959,  Government and government enterprises,2014:Q4,2186917
-960,All industry total,2015:Q1,17760558
-961,  Private industries,2015:Q1,15557407
-962,"      Agriculture, forestry, fishing, and hunting",2015:Q1,180972
-963,"      Mining, quarrying, and oil and gas extraction",2015:Q1,355888
-964,      Utilities,2015:Q1,284238
-965,      Construction,2015:Q1,710146
-966,      Manufacturing,2015:Q1,2166533
-967,          Durable goods manufacturing,2015:Q1,1166196
-968,          Nondurable goods manufacturing,2015:Q1,1000338
-969,      Wholesale trade,2015:Q1,1091336
-970,      Retail trade,2015:Q1,1033912
-971,      Transportation and warehousing,2015:Q1,538635
-972,      Information,2015:Q1,831131
-973,      Finance and insurance,2015:Q1,1344911
-974,      Real estate and rental and leasing,2015:Q1,2320798
-975,"      Professional, scientific, and technical services",2015:Q1,1265239
-976,      Management of companies and enterprises,2015:Q1,353785
-977,      Administrative and support and waste management and remediation services,2015:Q1,536966
-978,      Educational services,2015:Q1,195953
-979,      Health care and social assistance,2015:Q1,1259462
-980,"      Arts, entertainment, and recreation",2015:Q1,177717
-981,      Accommodation and food services,2015:Q1,515501
-982,      Other services (except government and government enterprises),2015:Q1,394280
-983,  Government and government enterprises,2015:Q1,2203151
-984,All industry total,2015:Q2,17979521
-985,  Private industries,2015:Q2,15757215
-986,"      Agriculture, forestry, fishing, and hunting",2015:Q2,183317
-987,"      Mining, quarrying, and oil and gas extraction",2015:Q2,358876
-988,      Utilities,2015:Q2,280982
-989,      Construction,2015:Q2,733645
-990,      Manufacturing,2015:Q2,2179869
-991,          Durable goods manufacturing,2015:Q2,1168636
-992,          Nondurable goods manufacturing,2015:Q2,1011233
-993,      Wholesale trade,2015:Q2,1100274
-994,      Retail trade,2015:Q2,1049676
-995,      Transportation and warehousing,2015:Q2,541901
-996,      Information,2015:Q2,852077
-997,      Finance and insurance,2015:Q2,1390679
-998,      Real estate and rental and leasing,2015:Q2,2339929
-999,"      Professional, scientific, and technical services",2015:Q2,1276868
-1000,      Management of companies and enterprises,2015:Q2,352513
-1001,      Administrative and support and waste management and remediation services,2015:Q2,541398
-1002,      Educational services,2015:Q2,197786
-1003,      Health care and social assistance,2015:Q2,1273789
-1004,"      Arts, entertainment, and recreation",2015:Q2,179428
-1005,      Accommodation and food services,2015:Q2,524916
-1006,      Other services (except government and government enterprises),2015:Q2,399291
-1007,  Government and government enterprises,2015:Q2,2222306
-1008,All industry total,2015:Q3,18114487
-1009,  Private industries,2015:Q3,15875511
-1010,"      Agriculture, forestry, fishing, and hunting",2015:Q3,192576
-1011,"      Mining, quarrying, and oil and gas extraction",2015:Q3,319596
-1012,      Utilities,2015:Q3,287131
-1013,      Construction,2015:Q3,753246
-1014,      Manufacturing,2015:Q3,2207315
-1015,          Durable goods manufacturing,2015:Q3,1173400
-1016,          Nondurable goods manufacturing,2015:Q3,1033915
-1017,      Wholesale trade,2015:Q3,1098476
-1018,      Retail trade,2015:Q3,1070008
-1019,      Transportation and warehousing,2015:Q3,550304
-1020,      Information,2015:Q3,873310
-1021,      Finance and insurance,2015:Q3,1351251
-1022,      Real estate and rental and leasing,2015:Q3,2373376
-1023,"      Professional, scientific, and technical services",2015:Q3,1289680
-1024,      Management of companies and enterprises,2015:Q3,351976
-1025,      Administrative and support and waste management and remediation services,2015:Q3,547413
-1026,      Educational services,2015:Q3,199928
-1027,      Health care and social assistance,2015:Q3,1293643
-1028,"      Arts, entertainment, and recreation",2015:Q3,180281
-1029,      Accommodation and food services,2015:Q3,533890
-1030,      Other services (except government and government enterprises),2015:Q3,402110
-1031,  Government and government enterprises,2015:Q3,2238977
-1032,All industry total,2015:Q4,18174262
-1033,  Private industries,2015:Q4,15914970
-1034,"      Agriculture, forestry, fishing, and hunting",2015:Q4,182296
-1035,"      Mining, quarrying, and oil and gas extraction",2015:Q4,276162
-1036,      Utilities,2015:Q4,279281
-1037,      Construction,2015:Q4,762617
-1038,      Manufacturing,2015:Q4,2186218
-1039,          Durable goods manufacturing,2015:Q4,1180105
-1040,          Nondurable goods manufacturing,2015:Q4,1006113
-1041,      Wholesale trade,2015:Q4,1101325
-1042,      Retail trade,2015:Q4,1077718
-1043,      Transportation and warehousing,2015:Q4,554116
-1044,      Information,2015:Q4,891506
-1045,      Finance and insurance,2015:Q4,1340521
-1046,      Real estate and rental and leasing,2015:Q4,2395684
-1047,"      Professional, scientific, and technical services",2015:Q4,1298510
-1048,      Management of companies and enterprises,2015:Q4,356852
-1049,      Administrative and support and waste management and remediation services,2015:Q4,556511
-1050,      Educational services,2015:Q4,202380
-1051,      Health care and social assistance,2015:Q4,1319476
-1052,"      Arts, entertainment, and recreation",2015:Q4,183203
-1053,      Accommodation and food services,2015:Q4,544062
-1054,      Other services (except government and government enterprises),2015:Q4,406531
-1055,  Government and government enterprises,2015:Q4,2259292
-1056,All industry total,2016:Q1,18213023
-1057,  Private industries,2016:Q1,15946465
-1058,"      Agriculture, forestry, fishing, and hunting",2016:Q1,180484
-1059,"      Mining, quarrying, and oil and gas extraction",2016:Q1,234551
-1060,      Utilities,2016:Q1,281901
-1061,      Construction,2016:Q1,783722
-1062,      Manufacturing,2016:Q1,2166369
-1063,          Durable goods manufacturing,2016:Q1,1168178
-1064,          Nondurable goods manufacturing,2016:Q1,998191
-1065,      Wholesale trade,2016:Q1,1094634
-1066,      Retail trade,2016:Q1,1086177
-1067,      Transportation and warehousing,2016:Q1,557036
-1068,      Information,2016:Q1,903590
-1069,      Finance and insurance,2016:Q1,1329065
-1070,      Real estate and rental and leasing,2016:Q1,2435739
-1071,"      Professional, scientific, and technical services",2016:Q1,1309981
-1072,      Management of companies and enterprises,2016:Q1,350880
-1073,      Administrative and support and waste management and remediation services,2016:Q1,557664
-1074,      Educational services,2016:Q1,203702
-1075,      Health care and social assistance,2016:Q1,1323067
-1076,"      Arts, entertainment, and recreation",2016:Q1,187658
-1077,      Accommodation and food services,2016:Q1,549535
-1078,      Other services (except government and government enterprises),2016:Q1,410707
-1079,  Government and government enterprises,2016:Q1,2266559
-1080,All industry total,2016:Q2,18425046
-1081,  Private industries,2016:Q2,16143274
-1082,"      Agriculture, forestry, fishing, and hunting",2016:Q2,182065
-1083,"      Mining, quarrying, and oil and gas extraction",2016:Q2,254650
-1084,      Utilities,2016:Q2,282576
-1085,      Construction,2016:Q2,785707
-1086,      Manufacturing,2016:Q2,2183557
-1087,          Durable goods manufacturing,2016:Q2,1174634
-1088,          Nondurable goods manufacturing,2016:Q2,1008923
-1089,      Wholesale trade,2016:Q2,1097557
-1090,      Retail trade,2016:Q2,1094315
-1091,      Transportation and warehousing,2016:Q2,559816
-1092,      Information,2016:Q2,895718
-1093,      Finance and insurance,2016:Q2,1382283
-1094,      Real estate and rental and leasing,2016:Q2,2466371
-1095,"      Professional, scientific, and technical services",2016:Q2,1321992
-1096,      Management of companies and enterprises,2016:Q2,360213
-1097,      Administrative and support and waste management and remediation services,2016:Q2,564104
-1098,      Educational services,2016:Q2,205762
-1099,      Health care and social assistance,2016:Q2,1348672
-1100,"      Arts, entertainment, and recreation",2016:Q2,189339
-1101,      Accommodation and food services,2016:Q2,555552
-1102,      Other services (except government and government enterprises),2016:Q2,413024
-1103,  Government and government enterprises,2016:Q2,2281772
-1104,All industry total,2016:Q3,18614158
-1105,  Private industries,2016:Q3,16319437
-1106,"      Agriculture, forestry, fishing, and hunting",2016:Q3,175609
-1107,"      Mining, quarrying, and oil and gas extraction",2016:Q3,265217
-1108,      Utilities,2016:Q3,290893
-1109,      Construction,2016:Q3,794974
-1110,      Manufacturing,2016:Q3,2187037
-1111,          Durable goods manufacturing,2016:Q3,1181472
-1112,          Nondurable goods manufacturing,2016:Q3,1005565
-1113,      Wholesale trade,2016:Q3,1106168
-1114,      Retail trade,2016:Q3,1100374
-1115,      Transportation and warehousing,2016:Q3,563802
-1116,      Information,2016:Q3,903921
-1117,      Finance and insurance,2016:Q3,1434311
-1118,      Real estate and rental and leasing,2016:Q3,2486991
-1119,"      Professional, scientific, and technical services",2016:Q3,1332319
-1120,      Management of companies and enterprises,2016:Q3,361676
-1121,      Administrative and support and waste management and remediation services,2016:Q3,571656
-1122,      Educational services,2016:Q3,207652
-1123,      Health care and social assistance,2016:Q3,1360436
-1124,"      Arts, entertainment, and recreation",2016:Q3,194531
-1125,      Accommodation and food services,2016:Q3,563510
-1126,      Other services (except government and government enterprises),2016:Q3,418360
-1127,  Government and government enterprises,2016:Q3,2294722
-1128,All industry total,2016:Q4,18787774
-1129,  Private industries,2016:Q4,16489416
-1130,"      Agriculture, forestry, fishing, and hunting",2016:Q4,172160
-1131,"      Mining, quarrying, and oil and gas extraction",2016:Q4,287953
-1132,      Utilities,2016:Q4,292984
-1133,      Construction,2016:Q4,805630
-1134,      Manufacturing,2016:Q4,2194847
-1135,          Durable goods manufacturing,2016:Q4,1187159
-1136,          Nondurable goods manufacturing,2016:Q4,1007688
-1137,      Wholesale trade,2016:Q4,1112213
-1138,      Retail trade,2016:Q4,1106566
-1139,      Transportation and warehousing,2016:Q4,569461
-1140,      Information,2016:Q4,912748
-1141,      Finance and insurance,2016:Q4,1474051
-1142,      Real estate and rental and leasing,2016:Q4,2526208
-1143,"      Professional, scientific, and technical services",2016:Q4,1340720
-1144,      Management of companies and enterprises,2016:Q4,359520
-1145,      Administrative and support and waste management and remediation services,2016:Q4,575990
-1146,      Educational services,2016:Q4,208253
-1147,      Health care and social assistance,2016:Q4,1365015
-1148,"      Arts, entertainment, and recreation",2016:Q4,196115
-1149,      Accommodation and food services,2016:Q4,568352
-1150,      Other services (except government and government enterprises),2016:Q4,420628
-1151,  Government and government enterprises,2016:Q4,2298358
-1152,All industry total,2017:Q1,18934863
-1153,  Private industries,2017:Q1,16614453
-1154,"      Agriculture, forestry, fishing, and hunting",2017:Q1,179022
-1155,"      Mining, quarrying, and oil and gas extraction",2017:Q1,311079
-1156,      Utilities,2017:Q1,288993
-1157,      Construction,2017:Q1,815191
-1158,      Manufacturing,2017:Q1,2206255
-1159,          Durable goods manufacturing,2017:Q1,1196403
-1160,          Nondurable goods manufacturing,2017:Q1,1009852
-1161,      Wholesale trade,2017:Q1,1125420
-1162,      Retail trade,2017:Q1,1118282
-1163,      Transportation and warehousing,2017:Q1,576277
-1164,      Information,2017:Q1,913547
-1165,      Finance and insurance,2017:Q1,1437311
-1166,      Real estate and rental and leasing,2017:Q1,2550798
-1167,"      Professional, scientific, and technical services",2017:Q1,1351395
-1168,      Management of companies and enterprises,2017:Q1,364818
-1169,      Administrative and support and waste management and remediation services,2017:Q1,586960
-1170,      Educational services,2017:Q1,210675
-1171,      Health care and social assistance,2017:Q1,1384443
-1172,"      Arts, entertainment, and recreation",2017:Q1,196726
-1173,      Accommodation and food services,2017:Q1,572824
-1174,      Other services (except government and government enterprises),2017:Q1,424436
-1175,  Government and government enterprises,2017:Q1,2320410
-1176,All industry total,2017:Q2,19123619
-1177,  Private industries,2017:Q2,16792558
-1178,"      Agriculture, forestry, fishing, and hunting",2017:Q2,174483
-1179,"      Mining, quarrying, and oil and gas extraction",2017:Q2,321200
-1180,      Utilities,2017:Q2,296627
-1181,      Construction,2017:Q2,818560
-1182,      Manufacturing,2017:Q2,2218594
-1183,          Durable goods manufacturing,2017:Q2,1204845
-1184,          Nondurable goods manufacturing,2017:Q2,1013749
-1185,      Wholesale trade,2017:Q2,1143928
-1186,      Retail trade,2017:Q2,1132346
-1187,      Transportation and warehousing,2017:Q2,588180
-1188,      Information,2017:Q2,927808
-1189,      Finance and insurance,2017:Q2,1418643
-1190,      Real estate and rental and leasing,2017:Q2,2584162
-1191,"      Professional, scientific, and technical services",2017:Q2,1369898
-1192,      Management of companies and enterprises,2017:Q2,369195
-1193,      Administrative and support and waste management and remediation services,2017:Q2,602463
-1194,      Educational services,2017:Q2,210624
-1195,      Health care and social assistance,2017:Q2,1403459
-1196,"      Arts, entertainment, and recreation",2017:Q2,201458
-1197,      Accommodation and food services,2017:Q2,580725
-1198,      Other services (except government and government enterprises),2017:Q2,430206
-1199,  Government and government enterprises,2017:Q2,2331060
-1200,All industry total,2017:Q3,19371498
-1201,  Private industries,2017:Q3,17027498
-1202,"      Agriculture, forestry, fishing, and hunting",2017:Q3,171161
-1203,"      Mining, quarrying, and oil and gas extraction",2017:Q3,326009
-1204,      Utilities,2017:Q3,294280
-1205,      Construction,2017:Q3,827505
-1206,      Manufacturing,2017:Q3,2252046
-1207,          Durable goods manufacturing,2017:Q3,1224433
-1208,          Nondurable goods manufacturing,2017:Q3,1027613
-1209,      Wholesale trade,2017:Q3,1161924
-1210,      Retail trade,2017:Q3,1141347
-1211,      Transportation and warehousing,2017:Q3,591437
-1212,      Information,2017:Q3,941475
-1213,      Finance and insurance,2017:Q3,1478916
-1214,      Real estate and rental and leasing,2017:Q3,2613383
-1215,"      Professional, scientific, and technical services",2017:Q3,1381769
-1216,      Management of companies and enterprises,2017:Q3,372364
-1217,      Administrative and support and waste management and remediation services,2017:Q3,610847
-1218,      Educational services,2017:Q3,213463
-1219,      Health care and social assistance,2017:Q3,1424306
-1220,"      Arts, entertainment, and recreation",2017:Q3,203876
-1221,      Accommodation and food services,2017:Q3,585415
-1222,      Other services (except government and government enterprises),2017:Q3,435974
-1223,  Government and government enterprises,2017:Q3,2344000
-1224,All industry total,2017:Q4,19623421
-1225,  Private industries,2017:Q4,17269235
-1226,"      Agriculture, forestry, fishing, and hunting",2017:Q4,169114
-1227,"      Mining, quarrying, and oil and gas extraction",2017:Q4,361468
-1228,      Utilities,2017:Q4,300116
-1229,      Construction,2017:Q4,843328
-1230,      Manufacturing,2017:Q4,2300209
-1231,          Durable goods manufacturing,2017:Q4,1242756
-1232,          Nondurable goods manufacturing,2017:Q4,1057452
-1233,      Wholesale trade,2017:Q4,1183053
-1234,      Retail trade,2017:Q4,1156059
-1235,      Transportation and warehousing,2017:Q4,600246
-1236,      Information,2017:Q4,944674
-1237,      Finance and insurance,2017:Q4,1481078
-1238,      Real estate and rental and leasing,2017:Q4,2647153
-1239,"      Professional, scientific, and technical services",2017:Q4,1396381
-1240,      Management of companies and enterprises,2017:Q4,377809
-1241,      Administrative and support and waste management and remediation services,2017:Q4,617603
-1242,      Educational services,2017:Q4,214788
-1243,      Health care and social assistance,2017:Q4,1438260
-1244,"      Arts, entertainment, and recreation",2017:Q4,202781
-1245,      Accommodation and food services,2017:Q4,591878
-1246,      Other services (except government and government enterprises),2017:Q4,443237
-1247,  Government and government enterprises,2017:Q4,2354187
-1248,All industry total,2018:Q1,19828567
-1249,  Private industries,2018:Q1,17459099
-1250,"      Agriculture, forestry, fishing, and hunting",2018:Q1,170127
-1251,"      Mining, quarrying, and oil and gas extraction",2018:Q1,368707
-1252,      Utilities,2018:Q1,302980
-1253,      Construction,2018:Q1,859200
-1254,      Manufacturing,2018:Q1,2330239
-1255,          Durable goods manufacturing,2018:Q1,1255705
-1256,          Nondurable goods manufacturing,2018:Q1,1074535
-1257,      Wholesale trade,2018:Q1,1184779
-1258,      Retail trade,2018:Q1,1169063
-1259,      Transportation and warehousing,2018:Q1,607884
-1260,      Information,2018:Q1,955366
-1261,      Finance and insurance,2018:Q1,1506756
-1262,      Real estate and rental and leasing,2018:Q1,2678901
-1263,"      Professional, scientific, and technical services",2018:Q1,1408788
-1264,      Management of companies and enterprises,2018:Q1,380768
-1265,      Administrative and support and waste management and remediation services,2018:Q1,621705
-1266,      Educational services,2018:Q1,216637
-1267,      Health care and social assistance,2018:Q1,1453830
-1268,"      Arts, entertainment, and recreation",2018:Q1,202138
-1269,      Accommodation and food services,2018:Q1,599071
-1270,      Other services (except government and government enterprises),2018:Q1,442159
-1271,  Government and government enterprises,2018:Q1,2369467
+industry,period,amount
+All industry total,2005:Q1,12736291
+  Private industries,2005:Q1,11108702
+"      Agriculture, forestry, fishing, and hunting",2005:Q1,129116
+"      Mining, quarrying, and oil and gas extraction",2005:Q1,197570
+      Utilities,2005:Q1,195184
+      Construction,2005:Q1,631084
+      Manufacturing,2005:Q1,1681311
+          Durable goods manufacturing,2005:Q1,947377
+          Nondurable goods manufacturing,2005:Q1,733934
+      Wholesale trade,2005:Q1,747324
+      Retail trade,2005:Q1,831978
+      Transportation and warehousing,2005:Q1,357536
+      Information,2005:Q1,639735
+      Finance and insurance,2005:Q1,954946
+      Real estate and rental and leasing,2005:Q1,1622049
+"      Professional, scientific, and technical services",2005:Q1,826866
+      Management of companies and enterprises,2005:Q1,213683
+      Administrative and support and waste management and remediation services,2005:Q1,370319
+      Educational services,2005:Q1,118840
+      Health care and social assistance,2005:Q1,812908
+"      Arts, entertainment, and recreation",2005:Q1,118807
+      Accommodation and food services,2005:Q1,352691
+      Other services (except government and government enterprises),2005:Q1,306755
+  Government and government enterprises,2005:Q1,1627589
+All industry total,2005:Q2,12896006
+  Private industries,2005:Q2,11255828
+"      Agriculture, forestry, fishing, and hunting",2005:Q2,129700
+"      Mining, quarrying, and oil and gas extraction",2005:Q2,211438
+      Utilities,2005:Q2,192996
+      Construction,2005:Q2,646391
+      Manufacturing,2005:Q2,1679406
+          Durable goods manufacturing,2005:Q2,950023
+          Nondurable goods manufacturing,2005:Q2,729383
+      Wholesale trade,2005:Q2,750357
+      Retail trade,2005:Q2,842320
+      Transportation and warehousing,2005:Q2,368204
+      Information,2005:Q2,650115
+      Finance and insurance,2005:Q2,979744
+      Real estate and rental and leasing,2005:Q2,1644481
+"      Professional, scientific, and technical services",2005:Q2,834990
+      Management of companies and enterprises,2005:Q2,216267
+      Administrative and support and waste management and remediation services,2005:Q2,379133
+      Educational services,2005:Q2,120306
+      Health care and social assistance,2005:Q2,822367
+"      Arts, entertainment, and recreation",2005:Q2,121322
+      Accommodation and food services,2005:Q2,356527
+      Other services (except government and government enterprises),2005:Q2,309764
+  Government and government enterprises,2005:Q2,1640178
+All industry total,2005:Q3,13126480
+  Private industries,2005:Q3,11469681
+"      Agriculture, forestry, fishing, and hunting",2005:Q3,129232
+"      Mining, quarrying, and oil and gas extraction",2005:Q3,233826
+      Utilities,2005:Q3,203485
+      Construction,2005:Q3,665914
+      Manufacturing,2005:Q3,1715191
+          Durable goods manufacturing,2005:Q3,963696
+          Nondurable goods manufacturing,2005:Q3,751495
+      Wholesale trade,2005:Q3,763889
+      Retail trade,2005:Q3,855415
+      Transportation and warehousing,2005:Q3,381907
+      Information,2005:Q3,638836
+      Finance and insurance,2005:Q3,1007397
+      Real estate and rental and leasing,2005:Q3,1663365
+"      Professional, scientific, and technical services",2005:Q3,848146
+      Management of companies and enterprises,2005:Q3,222485
+      Administrative and support and waste management and remediation services,2005:Q3,383980
+      Educational services,2005:Q3,121946
+      Health care and social assistance,2005:Q3,835349
+"      Arts, entertainment, and recreation",2005:Q3,123884
+      Accommodation and food services,2005:Q3,361695
+      Other services (except government and government enterprises),2005:Q3,313738
+  Government and government enterprises,2005:Q3,1656799
+All industry total,2005:Q4,13301844
+  Private industries,2005:Q4,11630952
+"      Agriculture, forestry, fishing, and hunting",2005:Q4,126234
+"      Mining, quarrying, and oil and gas extraction",2005:Q4,263751
+      Utilities,2005:Q4,213742
+      Construction,2005:Q4,673029
+      Manufacturing,2005:Q4,1740784
+          Durable goods manufacturing,2005:Q4,976795
+          Nondurable goods manufacturing,2005:Q4,763989
+      Wholesale trade,2005:Q4,775905
+      Retail trade,2005:Q4,865356
+      Transportation and warehousing,2005:Q4,392827
+      Information,2005:Q4,637523
+      Finance and insurance,2005:Q4,1025289
+      Real estate and rental and leasing,2005:Q4,1666954
+"      Professional, scientific, and technical services",2005:Q4,861270
+      Management of companies and enterprises,2005:Q4,224944
+      Administrative and support and waste management and remediation services,2005:Q4,388762
+      Educational services,2005:Q4,122907
+      Health care and social assistance,2005:Q4,844894
+"      Arts, entertainment, and recreation",2005:Q4,125032
+      Accommodation and food services,2005:Q4,365124
+      Other services (except government and government enterprises),2005:Q4,316625
+  Government and government enterprises,2005:Q4,1670892
+All industry total,2006:Q1,13567564
+  Private industries,2006:Q1,11867770
+"      Agriculture, forestry, fishing, and hunting",2006:Q1,123268
+"      Mining, quarrying, and oil and gas extraction",2006:Q1,268233
+      Utilities,2006:Q1,223399
+      Construction,2006:Q1,700067
+      Manufacturing,2006:Q1,1789106
+          Durable goods manufacturing,2006:Q1,1005485
+          Nondurable goods manufacturing,2006:Q1,783622
+      Wholesale trade,2006:Q1,796904
+      Retail trade,2006:Q1,875568
+      Transportation and warehousing,2006:Q1,399429
+      Information,2006:Q1,630680
+      Finance and insurance,2006:Q1,1046555
+      Real estate and rental and leasing,2006:Q1,1676171
+"      Professional, scientific, and technical services",2006:Q1,889036
+      Management of companies and enterprises,2006:Q1,233332
+      Administrative and support and waste management and remediation services,2006:Q1,395786
+      Educational services,2006:Q1,127202
+      Health care and social assistance,2006:Q1,867698
+"      Arts, entertainment, and recreation",2006:Q1,128442
+      Accommodation and food services,2006:Q1,375212
+      Other services (except government and government enterprises),2006:Q1,321680
+  Government and government enterprises,2006:Q1,1699795
+All industry total,2006:Q2,13717577
+  Private industries,2006:Q2,12000493
+"      Agriculture, forestry, fishing, and hunting",2006:Q2,126870
+"      Mining, quarrying, and oil and gas extraction",2006:Q2,273125
+      Utilities,2006:Q2,229910
+      Construction,2006:Q2,700263
+      Manufacturing,2006:Q2,1809013
+          Durable goods manufacturing,2006:Q2,1005478
+          Nondurable goods manufacturing,2006:Q2,803536
+      Wholesale trade,2006:Q2,811877
+      Retail trade,2006:Q2,878114
+      Transportation and warehousing,2006:Q2,407035
+      Information,2006:Q2,649429
+      Finance and insurance,2006:Q2,1040676
+      Real estate and rental and leasing,2006:Q2,1699742
+"      Professional, scientific, and technical services",2006:Q2,896638
+      Management of companies and enterprises,2006:Q2,237736
+      Administrative and support and waste management and remediation services,2006:Q2,396374
+      Educational services,2006:Q2,129158
+      Health care and social assistance,2006:Q2,880325
+"      Arts, entertainment, and recreation",2006:Q2,129923
+      Accommodation and food services,2006:Q2,378396
+      Other services (except government and government enterprises),2006:Q2,325890
+  Government and government enterprises,2006:Q2,1717084
+All industry total,2006:Q3,13825350
+  Private industries,2006:Q3,12088128
+"      Agriculture, forestry, fishing, and hunting",2006:Q3,130169
+"      Mining, quarrying, and oil and gas extraction",2006:Q3,277486
+      Utilities,2006:Q3,235233
+      Construction,2006:Q3,693016
+      Manufacturing,2006:Q3,1805602
+          Durable goods manufacturing,2006:Q3,995580
+          Nondurable goods manufacturing,2006:Q3,810022
+      Wholesale trade,2006:Q3,822404
+      Retail trade,2006:Q3,879677
+      Transportation and warehousing,2006:Q3,409404
+      Information,2006:Q3,662111
+      Finance and insurance,2006:Q3,1045043
+      Real estate and rental and leasing,2006:Q3,1732717
+"      Professional, scientific, and technical services",2006:Q3,905693
+      Management of companies and enterprises,2006:Q3,238102
+      Administrative and support and waste management and remediation services,2006:Q3,398518
+      Educational services,2006:Q3,130722
+      Health care and social assistance,2006:Q3,885894
+"      Arts, entertainment, and recreation",2006:Q3,129950
+      Accommodation and food services,2006:Q3,379857
+      Other services (except government and government enterprises),2006:Q3,326529
+  Government and government enterprises,2006:Q3,1737222
+All industry total,2006:Q4,13982428
+  Private industries,2006:Q4,12225409
+"      Agriculture, forestry, fishing, and hunting",2006:Q4,133078
+"      Mining, quarrying, and oil and gas extraction",2006:Q4,274778
+      Utilities,2006:Q4,231450
+      Construction,2006:Q4,699567
+      Manufacturing,2006:Q4,1813164
+          Durable goods manufacturing,2006:Q4,1014894
+          Nondurable goods manufacturing,2006:Q4,798270
+      Wholesale trade,2006:Q4,831515
+      Retail trade,2006:Q4,878897
+      Transportation and warehousing,2006:Q4,414522
+      Information,2006:Q4,653848
+      Finance and insurance,2006:Q4,1063079
+      Real estate and rental and leasing,2006:Q4,1778857
+"      Professional, scientific, and technical services",2006:Q4,923571
+      Management of companies and enterprises,2006:Q4,244795
+      Administrative and support and waste management and remediation services,2006:Q4,406760
+      Educational services,2006:Q4,132557
+      Health care and social assistance,2006:Q4,898090
+"      Arts, entertainment, and recreation",2006:Q4,132801
+      Accommodation and food services,2006:Q4,385316
+      Other services (except government and government enterprises),2006:Q4,328765
+  Government and government enterprises,2006:Q4,1757019
+All industry total,2007:Q1,14147927
+  Private industries,2007:Q1,12356901
+"      Agriculture, forestry, fishing, and hunting",2007:Q1,140721
+"      Mining, quarrying, and oil and gas extraction",2007:Q1,280897
+      Utilities,2007:Q1,232162
+      Construction,2007:Q1,713733
+      Manufacturing,2007:Q1,1805377
+          Durable goods manufacturing,2007:Q1,1010215
+          Nondurable goods manufacturing,2007:Q1,795162
+      Wholesale trade,2007:Q1,850442
+      Retail trade,2007:Q1,876085
+      Transportation and warehousing,2007:Q1,403630
+      Information,2007:Q1,669021
+      Finance and insurance,2007:Q1,1082867
+      Real estate and rental and leasing,2007:Q1,1797317
+"      Professional, scientific, and technical services",2007:Q1,935092
+      Management of companies and enterprises,2007:Q1,257207
+      Administrative and support and waste management and remediation services,2007:Q1,414924
+      Educational services,2007:Q1,135539
+      Health care and social assistance,2007:Q1,905736
+"      Arts, entertainment, and recreation",2007:Q1,135701
+      Accommodation and food services,2007:Q1,389988
+      Other services (except government and government enterprises),2007:Q1,330463
+  Government and government enterprises,2007:Q1,1791026
+All industry total,2007:Q2,14336405
+  Private industries,2007:Q2,12528769
+"      Agriculture, forestry, fishing, and hunting",2007:Q2,136678
+"      Mining, quarrying, and oil and gas extraction",2007:Q2,313939
+      Utilities,2007:Q2,237026
+      Construction,2007:Q2,721586
+      Manufacturing,2007:Q2,1863936
+          Durable goods manufacturing,2007:Q2,1029966
+          Nondurable goods manufacturing,2007:Q2,833969
+      Wholesale trade,2007:Q2,861228
+      Retail trade,2007:Q2,878845
+      Transportation and warehousing,2007:Q2,411137
+      Information,2007:Q2,691917
+      Finance and insurance,2007:Q2,1055692
+      Real estate and rental and leasing,2007:Q2,1812910
+"      Professional, scientific, and technical services",2007:Q2,947320
+      Management of companies and enterprises,2007:Q2,257875
+      Administrative and support and waste management and remediation services,2007:Q2,425450
+      Educational services,2007:Q2,137107
+      Health care and social assistance,2007:Q2,917121
+"      Arts, entertainment, and recreation",2007:Q2,136772
+      Accommodation and food services,2007:Q2,392238
+      Other services (except government and government enterprises),2007:Q2,329991
+  Government and government enterprises,2007:Q2,1807636
+All industry total,2007:Q3,14482806
+  Private industries,2007:Q3,12654383
+"      Agriculture, forestry, fishing, and hunting",2007:Q3,139014
+"      Mining, quarrying, and oil and gas extraction",2007:Q3,319191
+      Utilities,2007:Q3,239202
+      Construction,2007:Q3,719546
+      Manufacturing,2007:Q3,1872052
+          Durable goods manufacturing,2007:Q3,1046724
+          Nondurable goods manufacturing,2007:Q3,825328
+      Wholesale trade,2007:Q3,862451
+      Retail trade,2007:Q3,878827
+      Transportation and warehousing,2007:Q3,407139
+      Information,2007:Q3,716902
+      Finance and insurance,2007:Q3,1037394
+      Real estate and rental and leasing,2007:Q3,1848807
+"      Professional, scientific, and technical services",2007:Q3,978901
+      Management of companies and enterprises,2007:Q3,260362
+      Administrative and support and waste management and remediation services,2007:Q3,436548
+      Educational services,2007:Q3,139533
+      Health care and social assistance,2007:Q3,932288
+"      Arts, entertainment, and recreation",2007:Q3,138742
+      Accommodation and food services,2007:Q3,396175
+      Other services (except government and government enterprises),2007:Q3,331311
+  Government and government enterprises,2007:Q3,1828423
+All industry total,2007:Q4,14597471
+  Private industries,2007:Q4,12749510
+"      Agriculture, forestry, fishing, and hunting",2007:Q4,151584
+"      Mining, quarrying, and oil and gas extraction",2007:Q4,342046
+      Utilities,2007:Q4,231907
+      Construction,2007:Q4,705088
+      Manufacturing,2007:Q4,1875956
+          Durable goods manufacturing,2007:Q4,1033235
+          Nondurable goods manufacturing,2007:Q4,842721
+      Wholesale trade,2007:Q4,869251
+      Retail trade,2007:Q4,876668
+      Transportation and warehousing,2007:Q4,416483
+      Information,2007:Q4,731710
+      Finance and insurance,2007:Q4,986133
+      Real estate and rental and leasing,2007:Q4,1887310
+"      Professional, scientific, and technical services",2007:Q4,1007955
+      Management of companies and enterprises,2007:Q4,262711
+      Administrative and support and waste management and remediation services,2007:Q4,444529
+      Educational services,2007:Q4,142500
+      Health care and social assistance,2007:Q4,948531
+"      Arts, entertainment, and recreation",2007:Q4,139338
+      Accommodation and food services,2007:Q4,399468
+      Other services (except government and government enterprises),2007:Q4,330343
+  Government and government enterprises,2007:Q4,1847961
+All industry total,2008:Q1,14578856
+  Private industries,2008:Q1,12698222
+"      Agriculture, forestry, fishing, and hunting",2008:Q1,165140
+"      Mining, quarrying, and oil and gas extraction",2008:Q1,362944
+      Utilities,2008:Q1,222079
+      Construction,2008:Q1,670524
+      Manufacturing,2008:Q1,1814539
+          Durable goods manufacturing,2008:Q1,1009200
+          Nondurable goods manufacturing,2008:Q1,805339
+      Wholesale trade,2008:Q1,870558
+      Retail trade,2008:Q1,850766
+      Transportation and warehousing,2008:Q1,412956
+      Information,2008:Q1,726089
+      Finance and insurance,2008:Q1,1010799
+      Real estate and rental and leasing,2008:Q1,1886395
+"      Professional, scientific, and technical services",2008:Q1,1028878
+      Management of companies and enterprises,2008:Q1,259054
+      Administrative and support and waste management and remediation services,2008:Q1,438943
+      Educational services,2008:Q1,144860
+      Health care and social assistance,2008:Q1,970416
+"      Arts, entertainment, and recreation",2008:Q1,138821
+      Accommodation and food services,2008:Q1,395246
+      Other services (except government and government enterprises),2008:Q1,329213
+  Government and government enterprises,2008:Q1,1880634
+All industry total,2008:Q2,14722003
+  Private industries,2008:Q2,12822436
+"      Agriculture, forestry, fishing, and hunting",2008:Q2,158589
+"      Mining, quarrying, and oil and gas extraction",2008:Q2,436859
+      Utilities,2008:Q2,237402
+      Construction,2008:Q2,655685
+      Manufacturing,2008:Q2,1832477
+          Durable goods manufacturing,2008:Q2,1006384
+          Nondurable goods manufacturing,2008:Q2,826092
+      Wholesale trade,2008:Q2,882389
+      Retail trade,2008:Q2,858541
+      Transportation and warehousing,2008:Q2,418382
+      Information,2008:Q2,743977
+      Finance and insurance,2008:Q2,953139
+      Real estate and rental and leasing,2008:Q2,1895531
+"      Professional, scientific, and technical services",2008:Q2,1052258
+      Management of companies and enterprises,2008:Q2,260899
+      Administrative and support and waste management and remediation services,2008:Q2,438858
+      Educational services,2008:Q2,147262
+      Health care and social assistance,2008:Q2,985766
+"      Arts, entertainment, and recreation",2008:Q2,139492
+      Accommodation and food services,2008:Q2,395747
+      Other services (except government and government enterprises),2008:Q2,329184
+  Government and government enterprises,2008:Q2,1899566
+All industry total,2008:Q3,14750202
+  Private industries,2008:Q3,12827860
+"      Agriculture, forestry, fishing, and hunting",2008:Q3,149507
+"      Mining, quarrying, and oil and gas extraction",2008:Q3,443445
+      Utilities,2008:Q3,246426
+      Construction,2008:Q3,645325
+      Manufacturing,2008:Q3,1844838
+          Durable goods manufacturing,2008:Q3,998652
+          Nondurable goods manufacturing,2008:Q3,846186
+      Wholesale trade,2008:Q3,886991
+      Retail trade,2008:Q3,863663
+      Transportation and warehousing,2008:Q3,423715
+      Information,2008:Q3,743838
+      Finance and insurance,2008:Q3,889702
+      Real estate and rental and leasing,2008:Q3,1897310
+"      Professional, scientific, and technical services",2008:Q3,1068651
+      Management of companies and enterprises,2008:Q3,263623
+      Administrative and support and waste management and remediation services,2008:Q3,439124
+      Educational services,2008:Q3,151091
+      Health care and social assistance,2008:Q3,1003111
+"      Arts, entertainment, and recreation",2008:Q3,140126
+      Accommodation and food services,2008:Q3,396533
+      Other services (except government and government enterprises),2008:Q3,330839
+  Government and government enterprises,2008:Q3,1922342
+All industry total,2008:Q4,14455348
+  Private industries,2008:Q4,12516212
+"      Agriculture, forestry, fishing, and hunting",2008:Q4,144863
+"      Mining, quarrying, and oil and gas extraction",2008:Q4,362581
+      Utilities,2008:Q4,244150
+      Construction,2008:Q4,640402
+      Manufacturing,2008:Q4,1764627
+          Durable goods manufacturing,2008:Q4,963540
+          Nondurable goods manufacturing,2008:Q4,801087
+      Wholesale trade,2008:Q4,871316
+      Retail trade,2008:Q4,851473
+      Transportation and warehousing,2008:Q4,434353
+      Information,2008:Q4,708030
+      Finance and insurance,2008:Q4,775263
+      Real estate and rental and leasing,2008:Q4,1909933
+"      Professional, scientific, and technical services",2008:Q4,1063558
+      Management of companies and enterprises,2008:Q4,262489
+      Administrative and support and waste management and remediation services,2008:Q4,436020
+      Educational services,2008:Q4,153928
+      Health care and social assistance,2008:Q4,1024799
+"      Arts, entertainment, and recreation",2008:Q4,142095
+      Accommodation and food services,2008:Q4,392194
+      Other services (except government and government enterprises),2008:Q4,334137
+  Government and government enterprises,2008:Q4,1939136
+All industry total,2009:Q1,14287426
+  Private industries,2009:Q1,12337256
+"      Agriculture, forestry, fishing, and hunting",2009:Q1,130316
+"      Mining, quarrying, and oil and gas extraction",2009:Q1,301473
+      Utilities,2009:Q1,256532
+      Construction,2009:Q1,606301
+      Manufacturing,2009:Q1,1711022
+          Durable goods manufacturing,2009:Q1,891668
+          Nondurable goods manufacturing,2009:Q1,819354
+      Wholesale trade,2009:Q1,828839
+      Retail trade,2009:Q1,837118
+      Transportation and warehousing,2009:Q1,405638
+      Information,2009:Q1,703105
+      Finance and insurance,2009:Q1,909720
+      Real estate and rental and leasing,2009:Q1,1914623
+"      Professional, scientific, and technical services",2009:Q1,1024989
+      Management of companies and enterprises,2009:Q1,239603
+      Administrative and support and waste management and remediation services,2009:Q1,418504
+      Educational services,2009:Q1,161084
+      Health care and social assistance,2009:Q1,1035587
+"      Arts, entertainment, and recreation",2009:Q1,139247
+      Accommodation and food services,2009:Q1,383197
+      Other services (except government and government enterprises),2009:Q1,330356
+  Government and government enterprises,2009:Q1,1950170
+All industry total,2009:Q2,14242156
+  Private industries,2009:Q2,12277731
+"      Agriculture, forestry, fishing, and hunting",2009:Q2,132240
+"      Mining, quarrying, and oil and gas extraction",2009:Q2,275880
+      Utilities,2009:Q2,246350
+      Construction,2009:Q2,580832
+      Manufacturing,2009:Q2,1699522
+          Durable goods manufacturing,2009:Q2,861673
+          Nondurable goods manufacturing,2009:Q2,837848
+      Wholesale trade,2009:Q2,811806
+      Retail trade,2009:Q2,837674
+      Transportation and warehousing,2009:Q2,393143
+      Information,2009:Q2,699738
+      Finance and insurance,2009:Q2,980602
+      Real estate and rental and leasing,2009:Q2,1902377
+"      Professional, scientific, and technical services",2009:Q2,999642
+      Management of companies and enterprises,2009:Q2,245488
+      Administrative and support and waste management and remediation services,2009:Q2,411009
+      Educational services,2009:Q2,162598
+      Health care and social assistance,2009:Q2,1048725
+"      Arts, entertainment, and recreation",2009:Q2,137912
+      Accommodation and food services,2009:Q2,382516
+      Other services (except government and government enterprises),2009:Q2,329678
+  Government and government enterprises,2009:Q2,1964425
+All industry total,2009:Q3,14284750
+  Private industries,2009:Q3,12312673
+"      Agriculture, forestry, fishing, and hunting",2009:Q3,137955
+"      Mining, quarrying, and oil and gas extraction",2009:Q3,280006
+      Utilities,2009:Q3,243881
+      Construction,2009:Q3,570516
+      Manufacturing,2009:Q3,1724641
+          Durable goods manufacturing,2009:Q3,858853
+          Nondurable goods manufacturing,2009:Q3,865788
+      Wholesale trade,2009:Q3,814003
+      Retail trade,2009:Q3,836315
+      Transportation and warehousing,2009:Q3,393380
+      Information,2009:Q3,698646
+      Finance and insurance,2009:Q3,990228
+      Real estate and rental and leasing,2009:Q3,1903757
+"      Professional, scientific, and technical services",2009:Q3,991014
+      Management of companies and enterprises,2009:Q3,250776
+      Administrative and support and waste management and remediation services,2009:Q3,409015
+      Educational services,2009:Q3,163422
+      Health care and social assistance,2009:Q3,1053877
+"      Arts, entertainment, and recreation",2009:Q3,139272
+      Accommodation and food services,2009:Q3,383593
+      Other services (except government and government enterprises),2009:Q3,328376
+  Government and government enterprises,2009:Q3,1972077
+All industry total,2009:Q4,14466139
+  Private industries,2009:Q4,12484269
+"      Agriculture, forestry, fishing, and hunting",2009:Q4,150120
+"      Mining, quarrying, and oil and gas extraction",2009:Q4,304035
+      Utilities,2009:Q4,256378
+      Construction,2009:Q4,551533
+      Manufacturing,2009:Q4,1771665
+          Durable goods manufacturing,2009:Q4,884900
+          Nondurable goods manufacturing,2009:Q4,886765
+      Wholesale trade,2009:Q4,836734
+      Retail trade,2009:Q4,857429
+      Transportation and warehousing,2009:Q4,403212
+      Information,2009:Q4,719898
+      Finance and insurance,2009:Q4,996468
+      Real estate and rental and leasing,2009:Q4,1898354
+"      Professional, scientific, and technical services",2009:Q4,985804
+      Management of companies and enterprises,2009:Q4,252676
+      Administrative and support and waste management and remediation services,2009:Q4,416015
+      Educational services,2009:Q4,164859
+      Health care and social assistance,2009:Q4,1065980
+"      Arts, entertainment, and recreation",2009:Q4,138939
+      Accommodation and food services,2009:Q4,384541
+      Other services (except government and government enterprises),2009:Q4,329630
+  Government and government enterprises,2009:Q4,1981870
+All industry total,2010:Q1,14579073
+  Private industries,2010:Q1,12568053
+"      Agriculture, forestry, fishing, and hunting",2010:Q1,149339
+"      Mining, quarrying, and oil and gas extraction",2010:Q1,329579
+      Utilities,2010:Q1,267397
+      Construction,2010:Q1,533281
+      Manufacturing,2010:Q1,1784261
+          Durable goods manufacturing,2010:Q1,903027
+          Nondurable goods manufacturing,2010:Q1,881233
+      Wholesale trade,2010:Q1,844443
+      Retail trade,2010:Q1,854620
+      Transportation and warehousing,2010:Q1,407084
+      Information,2010:Q1,714729
+      Finance and insurance,2010:Q1,995725
+      Real estate and rental and leasing,2010:Q1,1919287
+"      Professional, scientific, and technical services",2010:Q1,997818
+      Management of companies and enterprises,2010:Q1,260127
+      Administrative and support and waste management and remediation services,2010:Q1,427188
+      Educational services,2010:Q1,166823
+      Health care and social assistance,2010:Q1,1061161
+"      Arts, entertainment, and recreation",2010:Q1,141274
+      Accommodation and food services,2010:Q1,387320
+      Other services (except government and government enterprises),2010:Q1,326597
+  Government and government enterprises,2010:Q1,2011021
+All industry total,2010:Q2,14784619
+  Private industries,2010:Q2,12747020
+"      Agriculture, forestry, fishing, and hunting",2010:Q2,156327
+"      Mining, quarrying, and oil and gas extraction",2010:Q2,319478
+      Utilities,2010:Q2,263210
+      Construction,2010:Q2,543343
+      Manufacturing,2010:Q2,1814188
+          Durable goods manufacturing,2010:Q2,947319
+          Nondurable goods manufacturing,2010:Q2,866869
+      Wholesale trade,2010:Q2,861545
+      Retail trade,2010:Q2,871669
+      Transportation and warehousing,2010:Q2,420505
+      Information,2010:Q2,721804
+      Finance and insurance,2010:Q2,1008039
+      Real estate and rental and leasing,2010:Q2,1942603
+"      Professional, scientific, and technical services",2010:Q2,1010866
+      Management of companies and enterprises,2010:Q2,264259
+      Administrative and support and waste management and remediation services,2010:Q2,436229
+      Educational services,2010:Q2,168824
+      Health care and social assistance,2010:Q2,1074584
+"      Arts, entertainment, and recreation",2010:Q2,144058
+      Accommodation and food services,2010:Q2,394603
+      Other services (except government and government enterprises),2010:Q2,330885
+  Government and government enterprises,2010:Q2,2037599
+All industry total,2010:Q3,14952355
+  Private industries,2010:Q3,12911587
+"      Agriculture, forestry, fishing, and hunting",2010:Q3,164048
+"      Mining, quarrying, and oil and gas extraction",2010:Q3,326551
+      Utilities,2010:Q3,267778
+      Construction,2010:Q3,544791
+      Manufacturing,2010:Q3,1848289
+          Durable goods manufacturing,2010:Q3,980683
+          Nondurable goods manufacturing,2010:Q3,867606
+      Wholesale trade,2010:Q3,884318
+      Retail trade,2010:Q3,871774
+      Transportation and warehousing,2010:Q3,433419
+      Information,2010:Q3,742477
+      Finance and insurance,2010:Q3,996196
+      Real estate and rental and leasing,2010:Q3,1947982
+"      Professional, scientific, and technical services",2010:Q3,1032424
+      Management of companies and enterprises,2010:Q3,269780
+      Administrative and support and waste management and remediation services,2010:Q3,443994
+      Educational services,2010:Q3,170341
+      Health care and social assistance,2010:Q3,1087099
+"      Arts, entertainment, and recreation",2010:Q3,145098
+      Accommodation and food services,2010:Q3,399866
+      Other services (except government and government enterprises),2010:Q3,335361
+  Government and government enterprises,2010:Q3,2040768
+All industry total,2010:Q4,15123078
+  Private industries,2010:Q4,13079407
+"      Agriculture, forestry, fishing, and hunting",2010:Q4,171151
+"      Mining, quarrying, and oil and gas extraction",2010:Q4,351274
+      Utilities,2010:Q4,269561
+      Construction,2010:Q4,545053
+      Manufacturing,2010:Q4,1875602
+          Durable goods manufacturing,2010:Q4,995353
+          Nondurable goods manufacturing,2010:Q4,880250
+      Wholesale trade,2010:Q4,883571
+      Retail trade,2010:Q4,877135
+      Transportation and warehousing,2010:Q4,439517
+      Information,2010:Q4,741707
+      Finance and insurance,2010:Q4,1023366
+      Real estate and rental and leasing,2010:Q4,1973012
+"      Professional, scientific, and technical services",2010:Q4,1046937
+      Management of companies and enterprises,2010:Q4,278655
+      Administrative and support and waste management and remediation services,2010:Q4,450621
+      Educational services,2010:Q4,171097
+      Health care and social assistance,2010:Q4,1093909
+"      Arts, entertainment, and recreation",2010:Q4,147353
+      Accommodation and food services,2010:Q4,403110
+      Other services (except government and government enterprises),2010:Q4,336778
+  Government and government enterprises,2010:Q4,2043671
+All industry total,2011:Q1,15128719
+  Private industries,2011:Q1,13080044
+"      Agriculture, forestry, fishing, and hunting",2011:Q1,197945
+"      Mining, quarrying, and oil and gas extraction",2011:Q1,368143
+      Utilities,2011:Q1,260551
+      Construction,2011:Q1,528734
+      Manufacturing,2011:Q1,1864719
+          Durable goods manufacturing,2011:Q1,990682
+          Nondurable goods manufacturing,2011:Q1,874037
+      Wholesale trade,2011:Q1,886396
+      Retail trade,2011:Q1,878657
+      Transportation and warehousing,2011:Q1,439807
+      Information,2011:Q1,724506
+      Finance and insurance,2011:Q1,1029270
+      Real estate and rental and leasing,2011:Q1,1961220
+"      Professional, scientific, and technical services",2011:Q1,1052980
+      Management of companies and enterprises,2011:Q1,281194
+      Administrative and support and waste management and remediation services,2011:Q1,450450
+      Educational services,2011:Q1,173675
+      Health care and social assistance,2011:Q1,1095671
+"      Arts, entertainment, and recreation",2011:Q1,146083
+      Accommodation and food services,2011:Q1,405407
+      Other services (except government and government enterprises),2011:Q1,334637
+  Government and government enterprises,2011:Q1,2048675
+All industry total,2011:Q2,15349070
+  Private industries,2011:Q2,13289142
+"      Agriculture, forestry, fishing, and hunting",2011:Q2,192318
+"      Mining, quarrying, and oil and gas extraction",2011:Q2,402291
+      Utilities,2011:Q2,273680
+      Construction,2011:Q2,542614
+      Manufacturing,2011:Q2,1899002
+          Durable goods manufacturing,2011:Q2,991029
+          Nondurable goods manufacturing,2011:Q2,907972
+      Wholesale trade,2011:Q2,904575
+      Retail trade,2011:Q2,885093
+      Transportation and warehousing,2011:Q2,445666
+      Information,2011:Q2,731525
+      Finance and insurance,2011:Q2,1020119
+      Real estate and rental and leasing,2011:Q2,2003067
+"      Professional, scientific, and technical services",2011:Q2,1072302
+      Management of companies and enterprises,2011:Q2,281589
+      Administrative and support and waste management and remediation services,2011:Q2,455285
+      Educational services,2011:Q2,174878
+      Health care and social assistance,2011:Q2,1108265
+"      Arts, entertainment, and recreation",2011:Q2,147471
+      Accommodation and food services,2011:Q2,411954
+      Other services (except government and government enterprises),2011:Q2,337446
+  Government and government enterprises,2011:Q2,2059928
+All industry total,2011:Q3,15474084
+  Private industries,2011:Q3,13410950
+"      Agriculture, forestry, fishing, and hunting",2011:Q3,200378
+"      Mining, quarrying, and oil and gas extraction",2011:Q3,402566
+      Utilities,2011:Q3,274044
+      Construction,2011:Q3,552756
+      Manufacturing,2011:Q3,1914398
+          Durable goods manufacturing,2011:Q3,1000562
+          Nondurable goods manufacturing,2011:Q3,913837
+      Wholesale trade,2011:Q3,906655
+      Retail trade,2011:Q3,893765
+      Transportation and warehousing,2011:Q3,446174
+      Information,2011:Q3,726316
+      Finance and insurance,2011:Q3,1046999
+      Real estate and rental and leasing,2011:Q3,2024485
+"      Professional, scientific, and technical services",2011:Q3,1082117
+      Management of companies and enterprises,2011:Q3,279664
+      Administrative and support and waste management and remediation services,2011:Q3,460538
+      Educational services,2011:Q3,176585
+      Health care and social assistance,2011:Q3,1117541
+"      Arts, entertainment, and recreation",2011:Q3,149890
+      Accommodation and food services,2011:Q3,415961
+      Other services (except government and government enterprises),2011:Q3,340118
+  Government and government enterprises,2011:Q3,2063134
+All industry total,2011:Q4,15672175
+  Private industries,2011:Q4,13613660
+"      Agriculture, forestry, fishing, and hunting",2011:Q4,198324
+"      Mining, quarrying, and oil and gas extraction",2011:Q4,421530
+      Utilities,2011:Q4,279871
+      Construction,2011:Q4,562354
+      Manufacturing,2011:Q4,1951132
+          Durable goods manufacturing,2011:Q4,1033105
+          Nondurable goods manufacturing,2011:Q4,918027
+      Wholesale trade,2011:Q4,931402
+      Retail trade,2011:Q4,909243
+      Transportation and warehousing,2011:Q4,455782
+      Information,2011:Q4,731378
+      Finance and insurance,2011:Q4,1055718
+      Real estate and rental and leasing,2011:Q4,2068841
+"      Professional, scientific, and technical services",2011:Q4,1088885
+      Management of companies and enterprises,2011:Q4,281731
+      Administrative and support and waste management and remediation services,2011:Q4,463791
+      Educational services,2011:Q4,176718
+      Health care and social assistance,2011:Q4,1124837
+"      Arts, entertainment, and recreation",2011:Q4,146483
+      Accommodation and food services,2011:Q4,422272
+      Other services (except government and government enterprises),2011:Q4,343368
+  Government and government enterprises,2011:Q4,2058515
+All industry total,2012:Q1,15860001
+  Private industries,2012:Q1,13783396
+"      Agriculture, forestry, fishing, and hunting",2012:Q1,188993
+"      Mining, quarrying, and oil and gas extraction",2012:Q1,417973
+      Utilities,2012:Q1,256200
+      Construction,2012:Q1,575309
+      Manufacturing,2012:Q1,1965656
+          Durable goods manufacturing,2012:Q1,1039832
+          Nondurable goods manufacturing,2012:Q1,925824
+      Wholesale trade,2012:Q1,946058
+      Retail trade,2012:Q1,925201
+      Transportation and warehousing,2012:Q1,460541
+      Information,2012:Q1,729242
+      Finance and insurance,2012:Q1,1107933
+      Real estate and rental and leasing,2012:Q1,2062848
+"      Professional, scientific, and technical services",2012:Q1,1113214
+      Management of companies and enterprises,2012:Q1,293832
+      Administrative and support and waste management and remediation services,2012:Q1,476085
+      Educational services,2012:Q1,181588
+      Health care and social assistance,2012:Q1,1144608
+"      Arts, entertainment, and recreation",2012:Q1,153790
+      Accommodation and food services,2012:Q1,434371
+      Other services (except government and government enterprises),2012:Q1,349954
+  Government and government enterprises,2012:Q1,2076605
+All industry total,2012:Q2,16008016
+  Private industries,2012:Q2,13928405
+"      Agriculture, forestry, fishing, and hunting",2012:Q2,184405
+"      Mining, quarrying, and oil and gas extraction",2012:Q2,403496
+      Utilities,2012:Q2,265011
+      Construction,2012:Q2,582456
+      Manufacturing,2012:Q2,1991351
+          Durable goods manufacturing,2012:Q2,1059254
+          Nondurable goods manufacturing,2012:Q2,932097
+      Wholesale trade,2012:Q2,957977
+      Retail trade,2012:Q2,930234
+      Transportation and warehousing,2012:Q2,470758
+      Information,2012:Q2,748749
+      Finance and insurance,2012:Q2,1132746
+      Real estate and rental and leasing,2012:Q2,2081344
+"      Professional, scientific, and technical services",2012:Q2,1127264
+      Management of companies and enterprises,2012:Q2,295678
+      Administrative and support and waste management and remediation services,2012:Q2,477763
+      Educational services,2012:Q2,182720
+      Health care and social assistance,2012:Q2,1148008
+"      Arts, entertainment, and recreation",2012:Q2,155853
+      Accommodation and food services,2012:Q2,437977
+      Other services (except government and government enterprises),2012:Q2,354613
+  Government and government enterprises,2012:Q2,2079611
+All industry total,2012:Q3,16113941
+  Private industries,2012:Q3,14028574
+"      Agriculture, forestry, fishing, and hunting",2012:Q3,180226
+"      Mining, quarrying, and oil and gas extraction",2012:Q3,403861
+      Utilities,2012:Q3,266532
+      Construction,2012:Q3,584576
+      Manufacturing,2012:Q3,2002608
+          Durable goods manufacturing,2012:Q3,1058090
+          Nondurable goods manufacturing,2012:Q3,944518
+      Wholesale trade,2012:Q3,969546
+      Retail trade,2012:Q3,936235
+      Transportation and warehousing,2012:Q3,470404
+      Information,2012:Q3,743019
+      Finance and insurance,2012:Q3,1162030
+      Real estate and rental and leasing,2012:Q3,2101894
+"      Professional, scientific, and technical services",2012:Q3,1126586
+      Management of companies and enterprises,2012:Q3,305067
+      Administrative and support and waste management and remediation services,2012:Q3,481647
+      Educational services,2012:Q3,183328
+      Health care and social assistance,2012:Q3,1155008
+"      Arts, entertainment, and recreation",2012:Q3,157796
+      Accommodation and food services,2012:Q3,440487
+      Other services (except government and government enterprises),2012:Q3,357723
+  Government and government enterprises,2012:Q3,2085366
+All industry total,2012:Q4,16183016
+  Private industries,2012:Q4,14089806
+"      Agriculture, forestry, fishing, and hunting",2012:Q4,189574
+"      Mining, quarrying, and oil and gas extraction",2012:Q4,418433
+      Utilities,2012:Q4,263666
+      Construction,2012:Q4,592244
+      Manufacturing,2012:Q4,1974955
+          Durable goods manufacturing,2012:Q4,1055954
+          Nondurable goods manufacturing,2012:Q4,919000
+      Wholesale trade,2012:Q4,976520
+      Retail trade,2012:Q4,938800
+      Transportation and warehousing,2012:Q4,467930
+      Information,2012:Q4,728874
+      Finance and insurance,2012:Q4,1168026
+      Real estate and rental and leasing,2012:Q4,2099118
+"      Professional, scientific, and technical services",2012:Q4,1147980
+      Management of companies and enterprises,2012:Q4,322548
+      Administrative and support and waste management and remediation services,2012:Q4,482707
+      Educational services,2012:Q4,184479
+      Health care and social assistance,2012:Q4,1167508
+"      Arts, entertainment, and recreation",2012:Q4,160571
+      Accommodation and food services,2012:Q4,446701
+      Other services (except government and government enterprises),2012:Q4,359172
+  Government and government enterprises,2012:Q4,2093210
+All industry total,2013:Q1,16360908
+  Private industries,2013:Q1,14261073
+"      Agriculture, forestry, fishing, and hunting",2013:Q1,230408
+"      Mining, quarrying, and oil and gas extraction",2013:Q1,430872
+      Utilities,2013:Q1,271422
+      Construction,2013:Q1,605388
+      Manufacturing,2013:Q1,2028157
+          Durable goods manufacturing,2013:Q1,1076039
+          Nondurable goods manufacturing,2013:Q1,952119
+      Wholesale trade,2013:Q1,984906
+      Retail trade,2013:Q1,963424
+      Transportation and warehousing,2013:Q1,481754
+      Information,2013:Q1,782615
+      Finance and insurance,2013:Q1,1088400
+      Real estate and rental and leasing,2013:Q1,2127499
+"      Professional, scientific, and technical services",2013:Q1,1125269
+      Management of companies and enterprises,2013:Q1,310367
+      Administrative and support and waste management and remediation services,2013:Q1,486531
+      Educational services,2013:Q1,182885
+      Health care and social assistance,2013:Q1,1182059
+"      Arts, entertainment, and recreation",2013:Q1,161724
+      Accommodation and food services,2013:Q1,456446
+      Other services (except government and government enterprises),2013:Q1,360947
+  Government and government enterprises,2013:Q1,2099835
+All industry total,2013:Q2,16426749
+  Private industries,2013:Q2,14322181
+"      Agriculture, forestry, fishing, and hunting",2013:Q2,226443
+"      Mining, quarrying, and oil and gas extraction",2013:Q2,446742
+      Utilities,2013:Q2,269471
+      Construction,2013:Q2,611214
+      Manufacturing,2013:Q2,2003840
+          Durable goods manufacturing,2013:Q2,1073811
+          Nondurable goods manufacturing,2013:Q2,930029
+      Wholesale trade,2013:Q2,987875
+      Retail trade,2013:Q2,959679
+      Transportation and warehousing,2013:Q2,480553
+      Information,2013:Q2,787079
+      Finance and insurance,2013:Q2,1116483
+      Real estate and rental and leasing,2013:Q2,2130391
+"      Professional, scientific, and technical services",2013:Q2,1139670
+      Management of companies and enterprises,2013:Q2,322260
+      Administrative and support and waste management and remediation services,2013:Q2,490222
+      Educational services,2013:Q2,184891
+      Health care and social assistance,2013:Q2,1182816
+"      Arts, entertainment, and recreation",2013:Q2,162491
+      Accommodation and food services,2013:Q2,458844
+      Other services (except government and government enterprises),2013:Q2,361216
+  Government and government enterprises,2013:Q2,2104568
+All industry total,2013:Q3,16634711
+  Private industries,2013:Q3,14527630
+"      Agriculture, forestry, fishing, and hunting",2013:Q3,225678
+"      Mining, quarrying, and oil and gas extraction",2013:Q3,468290
+      Utilities,2013:Q3,265204
+      Construction,2013:Q3,626637
+      Manufacturing,2013:Q3,2024396
+          Durable goods manufacturing,2013:Q3,1088740
+          Nondurable goods manufacturing,2013:Q3,935656
+      Wholesale trade,2013:Q3,1008416
+      Retail trade,2013:Q3,972139
+      Transportation and warehousing,2013:Q3,485976
+      Information,2013:Q3,786740
+      Finance and insurance,2013:Q3,1140340
+      Real estate and rental and leasing,2013:Q3,2173231
+"      Professional, scientific, and technical services",2013:Q3,1157246
+      Management of companies and enterprises,2013:Q3,326967
+      Administrative and support and waste management and remediation services,2013:Q3,498328
+      Educational services,2013:Q3,186279
+      Health care and social assistance,2013:Q3,1188781
+"      Arts, entertainment, and recreation",2013:Q3,164557
+      Accommodation and food services,2013:Q3,465035
+      Other services (except government and government enterprises),2013:Q3,363390
+  Government and government enterprises,2013:Q3,2107081
+All industry total,2013:Q4,16884585
+  Private industries,2013:Q4,14762978
+"      Agriculture, forestry, fishing, and hunting",2013:Q4,204755
+"      Mining, quarrying, and oil and gas extraction",2013:Q4,457568
+      Utilities,2013:Q4,270558
+      Construction,2013:Q4,639880
+      Manufacturing,2013:Q4,2084313
+          Durable goods manufacturing,2013:Q4,1105434
+          Nondurable goods manufacturing,2013:Q4,978880
+      Wholesale trade,2013:Q4,1025224
+      Retail trade,2013:Q4,979064
+      Transportation and warehousing,2013:Q4,500445
+      Information,2013:Q4,809550
+      Finance and insurance,2013:Q4,1200433
+      Real estate and rental and leasing,2013:Q4,2198455
+"      Professional, scientific, and technical services",2013:Q4,1170957
+      Management of companies and enterprises,2013:Q4,330070
+      Administrative and support and waste management and remediation services,2013:Q4,503459
+      Educational services,2013:Q4,188368
+      Health care and social assistance,2013:Q4,1193540
+"      Arts, entertainment, and recreation",2013:Q4,167873
+      Accommodation and food services,2013:Q4,470137
+      Other services (except government and government enterprises),2013:Q4,368327
+  Government and government enterprises,2013:Q4,2121608
+All industry total,2014:Q1,16915697
+  Private industries,2014:Q1,14775634
+"      Agriculture, forestry, fishing, and hunting",2014:Q1,200215
+"      Mining, quarrying, and oil and gas extraction",2014:Q1,471041
+      Utilities,2014:Q1,283248
+      Construction,2014:Q1,653534
+      Manufacturing,2014:Q1,2056064
+          Durable goods manufacturing,2014:Q1,1096694
+          Nondurable goods manufacturing,2014:Q1,959369
+      Wholesale trade,2014:Q1,1020200
+      Retail trade,2014:Q1,975857
+      Transportation and warehousing,2014:Q1,494369
+      Information,2014:Q1,786400
+      Finance and insurance,2014:Q1,1205553
+      Real estate and rental and leasing,2014:Q1,2206160
+"      Professional, scientific, and technical services",2014:Q1,1173934
+      Management of companies and enterprises,2014:Q1,332110
+      Administrative and support and waste management and remediation services,2014:Q1,508958
+      Educational services,2014:Q1,190148
+      Health care and social assistance,2014:Q1,1200151
+"      Arts, entertainment, and recreation",2014:Q1,171391
+      Accommodation and food services,2014:Q1,474393
+      Other services (except government and government enterprises),2014:Q1,371909
+  Government and government enterprises,2014:Q1,2140062
+All industry total,2014:Q2,17205444
+  Private industries,2014:Q2,15051764
+"      Agriculture, forestry, fishing, and hunting",2014:Q2,215163
+"      Mining, quarrying, and oil and gas extraction",2014:Q2,494104
+      Utilities,2014:Q2,277490
+      Construction,2014:Q2,665699
+      Manufacturing,2014:Q2,2098598
+          Durable goods manufacturing,2014:Q2,1114315
+          Nondurable goods manufacturing,2014:Q2,984283
+      Wholesale trade,2014:Q2,1042626
+      Retail trade,2014:Q2,995088
+      Transportation and warehousing,2014:Q2,509535
+      Information,2014:Q2,787236
+      Finance and insurance,2014:Q2,1247391
+      Real estate and rental and leasing,2014:Q2,2238522
+"      Professional, scientific, and technical services",2014:Q2,1189549
+      Management of companies and enterprises,2014:Q2,329892
+      Administrative and support and waste management and remediation services,2014:Q2,518275
+      Educational services,2014:Q2,190702
+      Health care and social assistance,2014:Q2,1211498
+"      Arts, entertainment, and recreation",2014:Q2,174024
+      Accommodation and food services,2014:Q2,486441
+      Other services (except government and government enterprises),2014:Q2,379930
+  Government and government enterprises,2014:Q2,2153680
+All industry total,2014:Q3,17506998
+  Private industries,2014:Q3,15336910
+"      Agriculture, forestry, fishing, and hunting",2014:Q3,199622
+"      Mining, quarrying, and oil and gas extraction",2014:Q3,498677
+      Utilities,2014:Q3,280637
+      Construction,2014:Q3,680551
+      Manufacturing,2014:Q3,2149520
+          Durable goods manufacturing,2014:Q3,1148164
+          Nondurable goods manufacturing,2014:Q3,1001356
+      Wholesale trade,2014:Q3,1072936
+      Retail trade,2014:Q3,1013426
+      Transportation and warehousing,2014:Q3,522808
+      Information,2014:Q3,793592
+      Finance and insurance,2014:Q3,1264687
+      Real estate and rental and leasing,2014:Q3,2277580
+"      Professional, scientific, and technical services",2014:Q3,1226065
+      Management of companies and enterprises,2014:Q3,339421
+      Administrative and support and waste management and remediation services,2014:Q3,527248
+      Educational services,2014:Q3,191866
+      Health care and social assistance,2014:Q3,1233208
+"      Arts, entertainment, and recreation",2014:Q3,177382
+      Accommodation and food services,2014:Q3,498590
+      Other services (except government and government enterprises),2014:Q3,389095
+  Government and government enterprises,2014:Q3,2170087
+All industry total,2014:Q4,17621095
+  Private industries,2014:Q4,15434178
+"      Agriculture, forestry, fishing, and hunting",2014:Q4,202614
+"      Mining, quarrying, and oil and gas extraction",2014:Q4,458533
+      Utilities,2014:Q4,280942
+      Construction,2014:Q4,697930
+      Manufacturing,2014:Q4,2141808
+          Durable goods manufacturing,2014:Q4,1150705
+          Nondurable goods manufacturing,2014:Q4,991103
+      Wholesale trade,2014:Q4,1082289
+      Retail trade,2014:Q4,1026694
+      Transportation and warehousing,2014:Q4,529454
+      Information,2014:Q4,799264
+      Finance and insurance,2014:Q4,1290336
+      Real estate and rental and leasing,2014:Q4,2291396
+"      Professional, scientific, and technical services",2014:Q4,1238200
+      Management of companies and enterprises,2014:Q4,346589
+      Administrative and support and waste management and remediation services,2014:Q4,533672
+      Educational services,2014:Q4,193492
+      Health care and social assistance,2014:Q4,1245779
+"      Arts, entertainment, and recreation",2014:Q4,177581
+      Accommodation and food services,2014:Q4,505680
+      Other services (except government and government enterprises),2014:Q4,391924
+  Government and government enterprises,2014:Q4,2186917
+All industry total,2015:Q1,17760558
+  Private industries,2015:Q1,15557407
+"      Agriculture, forestry, fishing, and hunting",2015:Q1,180972
+"      Mining, quarrying, and oil and gas extraction",2015:Q1,355888
+      Utilities,2015:Q1,284238
+      Construction,2015:Q1,710146
+      Manufacturing,2015:Q1,2166533
+          Durable goods manufacturing,2015:Q1,1166196
+          Nondurable goods manufacturing,2015:Q1,1000338
+      Wholesale trade,2015:Q1,1091336
+      Retail trade,2015:Q1,1033912
+      Transportation and warehousing,2015:Q1,538635
+      Information,2015:Q1,831131
+      Finance and insurance,2015:Q1,1344911
+      Real estate and rental and leasing,2015:Q1,2320798
+"      Professional, scientific, and technical services",2015:Q1,1265239
+      Management of companies and enterprises,2015:Q1,353785
+      Administrative and support and waste management and remediation services,2015:Q1,536966
+      Educational services,2015:Q1,195953
+      Health care and social assistance,2015:Q1,1259462
+"      Arts, entertainment, and recreation",2015:Q1,177717
+      Accommodation and food services,2015:Q1,515501
+      Other services (except government and government enterprises),2015:Q1,394280
+  Government and government enterprises,2015:Q1,2203151
+All industry total,2015:Q2,17979521
+  Private industries,2015:Q2,15757215
+"      Agriculture, forestry, fishing, and hunting",2015:Q2,183317
+"      Mining, quarrying, and oil and gas extraction",2015:Q2,358876
+      Utilities,2015:Q2,280982
+      Construction,2015:Q2,733645
+      Manufacturing,2015:Q2,2179869
+          Durable goods manufacturing,2015:Q2,1168636
+          Nondurable goods manufacturing,2015:Q2,1011233
+      Wholesale trade,2015:Q2,1100274
+      Retail trade,2015:Q2,1049676
+      Transportation and warehousing,2015:Q2,541901
+      Information,2015:Q2,852077
+      Finance and insurance,2015:Q2,1390679
+      Real estate and rental and leasing,2015:Q2,2339929
+"      Professional, scientific, and technical services",2015:Q2,1276868
+      Management of companies and enterprises,2015:Q2,352513
+      Administrative and support and waste management and remediation services,2015:Q2,541398
+      Educational services,2015:Q2,197786
+      Health care and social assistance,2015:Q2,1273789
+"      Arts, entertainment, and recreation",2015:Q2,179428
+      Accommodation and food services,2015:Q2,524916
+      Other services (except government and government enterprises),2015:Q2,399291
+  Government and government enterprises,2015:Q2,2222306
+All industry total,2015:Q3,18114487
+  Private industries,2015:Q3,15875511
+"      Agriculture, forestry, fishing, and hunting",2015:Q3,192576
+"      Mining, quarrying, and oil and gas extraction",2015:Q3,319596
+      Utilities,2015:Q3,287131
+      Construction,2015:Q3,753246
+      Manufacturing,2015:Q3,2207315
+          Durable goods manufacturing,2015:Q3,1173400
+          Nondurable goods manufacturing,2015:Q3,1033915
+      Wholesale trade,2015:Q3,1098476
+      Retail trade,2015:Q3,1070008
+      Transportation and warehousing,2015:Q3,550304
+      Information,2015:Q3,873310
+      Finance and insurance,2015:Q3,1351251
+      Real estate and rental and leasing,2015:Q3,2373376
+"      Professional, scientific, and technical services",2015:Q3,1289680
+      Management of companies and enterprises,2015:Q3,351976
+      Administrative and support and waste management and remediation services,2015:Q3,547413
+      Educational services,2015:Q3,199928
+      Health care and social assistance,2015:Q3,1293643
+"      Arts, entertainment, and recreation",2015:Q3,180281
+      Accommodation and food services,2015:Q3,533890
+      Other services (except government and government enterprises),2015:Q3,402110
+  Government and government enterprises,2015:Q3,2238977
+All industry total,2015:Q4,18174262
+  Private industries,2015:Q4,15914970
+"      Agriculture, forestry, fishing, and hunting",2015:Q4,182296
+"      Mining, quarrying, and oil and gas extraction",2015:Q4,276162
+      Utilities,2015:Q4,279281
+      Construction,2015:Q4,762617
+      Manufacturing,2015:Q4,2186218
+          Durable goods manufacturing,2015:Q4,1180105
+          Nondurable goods manufacturing,2015:Q4,1006113
+      Wholesale trade,2015:Q4,1101325
+      Retail trade,2015:Q4,1077718
+      Transportation and warehousing,2015:Q4,554116
+      Information,2015:Q4,891506
+      Finance and insurance,2015:Q4,1340521
+      Real estate and rental and leasing,2015:Q4,2395684
+"      Professional, scientific, and technical services",2015:Q4,1298510
+      Management of companies and enterprises,2015:Q4,356852
+      Administrative and support and waste management and remediation services,2015:Q4,556511
+      Educational services,2015:Q4,202380
+      Health care and social assistance,2015:Q4,1319476
+"      Arts, entertainment, and recreation",2015:Q4,183203
+      Accommodation and food services,2015:Q4,544062
+      Other services (except government and government enterprises),2015:Q4,406531
+  Government and government enterprises,2015:Q4,2259292
+All industry total,2016:Q1,18213023
+  Private industries,2016:Q1,15946465
+"      Agriculture, forestry, fishing, and hunting",2016:Q1,180484
+"      Mining, quarrying, and oil and gas extraction",2016:Q1,234551
+      Utilities,2016:Q1,281901
+      Construction,2016:Q1,783722
+      Manufacturing,2016:Q1,2166369
+          Durable goods manufacturing,2016:Q1,1168178
+          Nondurable goods manufacturing,2016:Q1,998191
+      Wholesale trade,2016:Q1,1094634
+      Retail trade,2016:Q1,1086177
+      Transportation and warehousing,2016:Q1,557036
+      Information,2016:Q1,903590
+      Finance and insurance,2016:Q1,1329065
+      Real estate and rental and leasing,2016:Q1,2435739
+"      Professional, scientific, and technical services",2016:Q1,1309981
+      Management of companies and enterprises,2016:Q1,350880
+      Administrative and support and waste management and remediation services,2016:Q1,557664
+      Educational services,2016:Q1,203702
+      Health care and social assistance,2016:Q1,1323067
+"      Arts, entertainment, and recreation",2016:Q1,187658
+      Accommodation and food services,2016:Q1,549535
+      Other services (except government and government enterprises),2016:Q1,410707
+  Government and government enterprises,2016:Q1,2266559
+All industry total,2016:Q2,18425046
+  Private industries,2016:Q2,16143274
+"      Agriculture, forestry, fishing, and hunting",2016:Q2,182065
+"      Mining, quarrying, and oil and gas extraction",2016:Q2,254650
+      Utilities,2016:Q2,282576
+      Construction,2016:Q2,785707
+      Manufacturing,2016:Q2,2183557
+          Durable goods manufacturing,2016:Q2,1174634
+          Nondurable goods manufacturing,2016:Q2,1008923
+      Wholesale trade,2016:Q2,1097557
+      Retail trade,2016:Q2,1094315
+      Transportation and warehousing,2016:Q2,559816
+      Information,2016:Q2,895718
+      Finance and insurance,2016:Q2,1382283
+      Real estate and rental and leasing,2016:Q2,2466371
+"      Professional, scientific, and technical services",2016:Q2,1321992
+      Management of companies and enterprises,2016:Q2,360213
+      Administrative and support and waste management and remediation services,2016:Q2,564104
+      Educational services,2016:Q2,205762
+      Health care and social assistance,2016:Q2,1348672
+"      Arts, entertainment, and recreation",2016:Q2,189339
+      Accommodation and food services,2016:Q2,555552
+      Other services (except government and government enterprises),2016:Q2,413024
+  Government and government enterprises,2016:Q2,2281772
+All industry total,2016:Q3,18614158
+  Private industries,2016:Q3,16319437
+"      Agriculture, forestry, fishing, and hunting",2016:Q3,175609
+"      Mining, quarrying, and oil and gas extraction",2016:Q3,265217
+      Utilities,2016:Q3,290893
+      Construction,2016:Q3,794974
+      Manufacturing,2016:Q3,2187037
+          Durable goods manufacturing,2016:Q3,1181472
+          Nondurable goods manufacturing,2016:Q3,1005565
+      Wholesale trade,2016:Q3,1106168
+      Retail trade,2016:Q3,1100374
+      Transportation and warehousing,2016:Q3,563802
+      Information,2016:Q3,903921
+      Finance and insurance,2016:Q3,1434311
+      Real estate and rental and leasing,2016:Q3,2486991
+"      Professional, scientific, and technical services",2016:Q3,1332319
+      Management of companies and enterprises,2016:Q3,361676
+      Administrative and support and waste management and remediation services,2016:Q3,571656
+      Educational services,2016:Q3,207652
+      Health care and social assistance,2016:Q3,1360436
+"      Arts, entertainment, and recreation",2016:Q3,194531
+      Accommodation and food services,2016:Q3,563510
+      Other services (except government and government enterprises),2016:Q3,418360
+  Government and government enterprises,2016:Q3,2294722
+All industry total,2016:Q4,18787774
+  Private industries,2016:Q4,16489416
+"      Agriculture, forestry, fishing, and hunting",2016:Q4,172160
+"      Mining, quarrying, and oil and gas extraction",2016:Q4,287953
+      Utilities,2016:Q4,292984
+      Construction,2016:Q4,805630
+      Manufacturing,2016:Q4,2194847
+          Durable goods manufacturing,2016:Q4,1187159
+          Nondurable goods manufacturing,2016:Q4,1007688
+      Wholesale trade,2016:Q4,1112213
+      Retail trade,2016:Q4,1106566
+      Transportation and warehousing,2016:Q4,569461
+      Information,2016:Q4,912748
+      Finance and insurance,2016:Q4,1474051
+      Real estate and rental and leasing,2016:Q4,2526208
+"      Professional, scientific, and technical services",2016:Q4,1340720
+      Management of companies and enterprises,2016:Q4,359520
+      Administrative and support and waste management and remediation services,2016:Q4,575990
+      Educational services,2016:Q4,208253
+      Health care and social assistance,2016:Q4,1365015
+"      Arts, entertainment, and recreation",2016:Q4,196115
+      Accommodation and food services,2016:Q4,568352
+      Other services (except government and government enterprises),2016:Q4,420628
+  Government and government enterprises,2016:Q4,2298358
+All industry total,2017:Q1,18934863
+  Private industries,2017:Q1,16614453
+"      Agriculture, forestry, fishing, and hunting",2017:Q1,179022
+"      Mining, quarrying, and oil and gas extraction",2017:Q1,311079
+      Utilities,2017:Q1,288993
+      Construction,2017:Q1,815191
+      Manufacturing,2017:Q1,2206255
+          Durable goods manufacturing,2017:Q1,1196403
+          Nondurable goods manufacturing,2017:Q1,1009852
+      Wholesale trade,2017:Q1,1125420
+      Retail trade,2017:Q1,1118282
+      Transportation and warehousing,2017:Q1,576277
+      Information,2017:Q1,913547
+      Finance and insurance,2017:Q1,1437311
+      Real estate and rental and leasing,2017:Q1,2550798
+"      Professional, scientific, and technical services",2017:Q1,1351395
+      Management of companies and enterprises,2017:Q1,364818
+      Administrative and support and waste management and remediation services,2017:Q1,586960
+      Educational services,2017:Q1,210675
+      Health care and social assistance,2017:Q1,1384443
+"      Arts, entertainment, and recreation",2017:Q1,196726
+      Accommodation and food services,2017:Q1,572824
+      Other services (except government and government enterprises),2017:Q1,424436
+  Government and government enterprises,2017:Q1,2320410
+All industry total,2017:Q2,19123619
+  Private industries,2017:Q2,16792558
+"      Agriculture, forestry, fishing, and hunting",2017:Q2,174483
+"      Mining, quarrying, and oil and gas extraction",2017:Q2,321200
+      Utilities,2017:Q2,296627
+      Construction,2017:Q2,818560
+      Manufacturing,2017:Q2,2218594
+          Durable goods manufacturing,2017:Q2,1204845
+          Nondurable goods manufacturing,2017:Q2,1013749
+      Wholesale trade,2017:Q2,1143928
+      Retail trade,2017:Q2,1132346
+      Transportation and warehousing,2017:Q2,588180
+      Information,2017:Q2,927808
+      Finance and insurance,2017:Q2,1418643
+      Real estate and rental and leasing,2017:Q2,2584162
+"      Professional, scientific, and technical services",2017:Q2,1369898
+      Management of companies and enterprises,2017:Q2,369195
+      Administrative and support and waste management and remediation services,2017:Q2,602463
+      Educational services,2017:Q2,210624
+      Health care and social assistance,2017:Q2,1403459
+"      Arts, entertainment, and recreation",2017:Q2,201458
+      Accommodation and food services,2017:Q2,580725
+      Other services (except government and government enterprises),2017:Q2,430206
+  Government and government enterprises,2017:Q2,2331060
+All industry total,2017:Q3,19371498
+  Private industries,2017:Q3,17027498
+"      Agriculture, forestry, fishing, and hunting",2017:Q3,171161
+"      Mining, quarrying, and oil and gas extraction",2017:Q3,326009
+      Utilities,2017:Q3,294280
+      Construction,2017:Q3,827505
+      Manufacturing,2017:Q3,2252046
+          Durable goods manufacturing,2017:Q3,1224433
+          Nondurable goods manufacturing,2017:Q3,1027613
+      Wholesale trade,2017:Q3,1161924
+      Retail trade,2017:Q3,1141347
+      Transportation and warehousing,2017:Q3,591437
+      Information,2017:Q3,941475
+      Finance and insurance,2017:Q3,1478916
+      Real estate and rental and leasing,2017:Q3,2613383
+"      Professional, scientific, and technical services",2017:Q3,1381769
+      Management of companies and enterprises,2017:Q3,372364
+      Administrative and support and waste management and remediation services,2017:Q3,610847
+      Educational services,2017:Q3,213463
+      Health care and social assistance,2017:Q3,1424306
+"      Arts, entertainment, and recreation",2017:Q3,203876
+      Accommodation and food services,2017:Q3,585415
+      Other services (except government and government enterprises),2017:Q3,435974
+  Government and government enterprises,2017:Q3,2344000
+All industry total,2017:Q4,19623421
+  Private industries,2017:Q4,17269235
+"      Agriculture, forestry, fishing, and hunting",2017:Q4,169114
+"      Mining, quarrying, and oil and gas extraction",2017:Q4,361468
+      Utilities,2017:Q4,300116
+      Construction,2017:Q4,843328
+      Manufacturing,2017:Q4,2300209
+          Durable goods manufacturing,2017:Q4,1242756
+          Nondurable goods manufacturing,2017:Q4,1057452
+      Wholesale trade,2017:Q4,1183053
+      Retail trade,2017:Q4,1156059
+      Transportation and warehousing,2017:Q4,600246
+      Information,2017:Q4,944674
+      Finance and insurance,2017:Q4,1481078
+      Real estate and rental and leasing,2017:Q4,2647153
+"      Professional, scientific, and technical services",2017:Q4,1396381
+      Management of companies and enterprises,2017:Q4,377809
+      Administrative and support and waste management and remediation services,2017:Q4,617603
+      Educational services,2017:Q4,214788
+      Health care and social assistance,2017:Q4,1438260
+"      Arts, entertainment, and recreation",2017:Q4,202781
+      Accommodation and food services,2017:Q4,591878
+      Other services (except government and government enterprises),2017:Q4,443237
+  Government and government enterprises,2017:Q4,2354187
+All industry total,2018:Q1,19828567
+  Private industries,2018:Q1,17459099
+"      Agriculture, forestry, fishing, and hunting",2018:Q1,170127
+"      Mining, quarrying, and oil and gas extraction",2018:Q1,368707
+      Utilities,2018:Q1,302980
+      Construction,2018:Q1,859200
+      Manufacturing,2018:Q1,2330239
+          Durable goods manufacturing,2018:Q1,1255705
+          Nondurable goods manufacturing,2018:Q1,1074535
+      Wholesale trade,2018:Q1,1184779
+      Retail trade,2018:Q1,1169063
+      Transportation and warehousing,2018:Q1,607884
+      Information,2018:Q1,955366
+      Finance and insurance,2018:Q1,1506756
+      Real estate and rental and leasing,2018:Q1,2678901
+"      Professional, scientific, and technical services",2018:Q1,1408788
+      Management of companies and enterprises,2018:Q1,380768
+      Administrative and support and waste management and remediation services,2018:Q1,621705
+      Educational services,2018:Q1,216637
+      Health care and social assistance,2018:Q1,1453830
+"      Arts, entertainment, and recreation",2018:Q1,202138
+      Accommodation and food services,2018:Q1,599071
+      Other services (except government and government enterprises),2018:Q1,442159
+  Government and government enterprises,2018:Q1,2369467
