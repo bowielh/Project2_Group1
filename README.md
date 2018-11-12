@@ -7,7 +7,7 @@
 ## Objective:
 Recreational marijuana is always a hotly debated subject. Through this project, we wanted to understand the Impact of legalizing recreational Marijuana on the States. We will be doing an exploration of various factors like GDP, Population, Employment etc. and to draw out a comparison between pre-legalization vs post-legalization years. Through our project, we aim to study and understand several facts and figures to find the answer for ourselves, is the criticism of recreational marijuana fair?
 
-![ProjectIcon](Images/1-Project-Icon.jpg)
+![ProjectIcon](Images/1-Project2-Icon.jpg)
 
 ## Dataset:
 The dataset we will be using contains information about the states that have legalised marijuana and the key factors that affect the same and spans from 2007 to 2017. Specifically, the dataset includes information on:
