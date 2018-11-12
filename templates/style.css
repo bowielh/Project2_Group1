@@ -1,0 +1,68 @@
+body {
+  background-color: #ebeaed;
+}
+
+.container-fluid {
+  background-color: #ebeaed;
+  padding: 5%;
+  /* padding-bottom: 20%;
+  padding-left: 2%; */
+}
+
+h6 {
+    color: black;
+}
+
+.navbar-light .navbar-brand {
+  color: white;
+  background-color: #45959d;
+  padding: 5px 5px 5px 5px;
+}
+
+.sub {
+  max-width: 100%;
+  padding: 10px 10px 10px 10px;
+  background-color: white;
+}
+
+.row {
+  color: #45959d;
+  /* background-color: #6109e74a; */
+  /* text-align: center; */
+  padding: 5px 5px 5px 5px;
+}
+
+p {
+  color: #6c757d;
+  text-align: left;
+}
+
+.pict {
+  padding: 10px;
+}
+
+.floater {
+  float:left;
+  margin-right:5px;
+}
+
+.footer {
+  position: fixed;
+  right:0;
+  bottom:0;
+  left:0;
+  padding: 10px;
+  /* max-width: 100%; */
+  background-color: grey;
+  color: white;
+  text-align: center;
+  /* padding-right: 100%;
+  padding-left: 100%; */
+  }
+
+  .footer p {
+    color: white;
+    font-size: 1.25em;
+    text-align: center;
+  }
+
