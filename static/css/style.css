@@ -1,3 +1,19 @@
 .green {
   stroke: green;
 }
+
+.x-axis {
+  font-size: 20px;
+}
+
+.y-axis {
+  font-size: 20px;
+}
+
+.state-group {
+  font-size: 20px;
+}
+
+.metric-group {
+  font-size: 20px;
+}
