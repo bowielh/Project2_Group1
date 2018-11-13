@@ -19,6 +19,9 @@ h6 {
   padding: 5px 5px 5px 5px;
 }
 
+td#nav1 * {
+    float: left;
+ }
 .sub {
   max-width: 100%;
   padding: 10px 10px 10px 10px;
@@ -53,7 +56,7 @@ p {
   left:0;
   padding: 10px;
   /* max-width: 100%; */
-  background-color: grey;
+  background-color: teal;
   color: white;
   text-align: center;
   /* padding-right: 100%;
