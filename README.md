@@ -17,7 +17,6 @@ The dataset we will be using contains information about the states that have leg
 3. **Unemployment Rates**
 4. **Gross Domestic Product (GDP)**
 5. **Tax Revenue**
-![TaxRevenue](Images/5-Tax-Revenue.jpeg)
 
 ## Conclusion:
 
