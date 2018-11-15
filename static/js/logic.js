@@ -21,27 +21,32 @@ var cities = [
   {
     name: "New York",
     location: [40.7128, -74.0059],
-    population: 8550405
+    GDP: 30,
+    Taxes: "20%"
   },
   {
     name: "Chicago",
     location: [41.8781, -87.6298],
-    population: 2720546
+    GDP: 10,
+    Taxes: "20%"
   },
   {
     name: "Houston",
     location: [29.7604, -95.3698],
-    population: 2296224
+    GDP: 8,
+    Taxes: "20%"
   },
   {
     name: "Los Angeles",
     location: [34.0522, -118.2437],
-    population: 3971883
+    GDP: 10,
+    Taxes: "20%"
   },
   {
     name: "Omaha",
     location: [41.2524, -95.9980],
-    population: 446599
+    GDP: 12,
+    Taxes: "20%"
   }
 ];
 
@@ -53,6 +58,6 @@ for (var i = 0; i < cities.length; i++) {
     fillColor: "purple",
     // Setting our circle's radius equal to the output of our markerSize function
     // This will make our marker's size proportionate to its population
-    radius: markerSize(cities[i].population)
+    radius: markerSize(cities[i].GDP)
   }).bindPopup("<h1>" + cities[i].name + "</h1> <hr> <h3>Population: " + cities[i].population + "</h3>").addTo(myMap);
 }
