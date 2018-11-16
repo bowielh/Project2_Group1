@@ -18,7 +18,7 @@ The dataset we will be using contains information about the states that have leg
 4. **Gross Domestic Product (GDP)**
 5. **Tax Revenue**
 
-## Statistical Testing
+## Statistical Testing:
 1. Since population and GDP have a natural trend of increasing over years, we need to conduct statistical analysis to determine whether legalization of weed has affected that trend.
 2. Since we assume the homogeneity of variance in our pre- and post-legalization population samples, we can perform a z-test.
 3. Our null-hypothesis assumes that the true mean difference between the paired samples is zero which means any difference between pre- and post metrics is due to random variation.
