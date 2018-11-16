@@ -11,13 +11,14 @@ Recreational marijuana is always a hotly debated subject. Through this project, 
 
 ## Dataset:
 The dataset we will be using contains information about the states that have legalised marijuana and the key factors that affect the same and spans from 2007 to 2017. Specifically, the dataset includes information on:
-1. Population
-2. Employment
-3. Gross Domestic Product (GDP)
-4. Tax Revenue
-5. Labor
+1. **Population**
+2. **Employment**
+![Employment](Images/3-Employment.jpg)
+3. **Unemployment Rates**
+4. **Gross Domestic Product (GDP)**
+5. **Tax Revenue**
 
-## Goals & Approaches:
+## Conclusion:
 
 ## Future Scope:
 1. To dive further into other key elements such as Crime Rates and Vehicle Accident Rates and explore how these are also affected by the legalization of Marijuana.
