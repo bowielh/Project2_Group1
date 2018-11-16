@@ -6,7 +6,7 @@ rawData.forEach(function(d) {
   d.dates.forEach(function(data, index) {
     d.dates[index] = parseTime(data);
   })
-  if ((d.y === "GDP-Total($B)") || (d.y === "GDP-Retail($B)") || (d.y === "GDP-Tourism($B)") || (d.y === "Employment(M)") || (d.y === "Population(M)")) {
+  if ((d.y === "GDP-Total($T)") || (d.y === "GDP-Retail($T)") || (d.y === "GDP-Tourism($T)") || (d.y === "Employment(M)") || (d.y === "Population(M)")) {
     d.series.forEach(function(data) {
       data.values.forEach(function(dd, index) {
         data.values[index] = dd/1000000
@@ -26,7 +26,7 @@ var svgWidth = 1350;
 var svgHeight = 600;
 
 var margin = {
-  top: 100,
+  top: 50,
   right: 100,
   bottom: 50,
   left: 75
@@ -42,19 +42,25 @@ var svg = d3
   .attr("viewBox", "0 0 1350 600")
   .classed("svg-content", true);
 
-  // .attr("width", svgWidth)
-  // .attr("height", svgHeight);
+
 
 // Append an SVG group
 var chartGroup = svg.append("g")
   .classed("chart-content",true)
-  .attr("transform", `translate(${margin.left}, ${margin.top})`)
-  .attr("width", 100)
+  .attr("transform", `translate(${margin.left+100}, ${margin.top})`)
+  // .append("rect")
+  // .style("stroke", "black")
+  // .style("stroke-width", 5)
+  // .style("fill","none")
+  // .style("opacity", 0.5)
+  // .attr("width", width)
+  // .attr("height", height);
+
 
 // Create user selection groups for metric and state
 var metricSelectionGroup = svg.append("g")
   .classed("metric-group", true)
-  .attr("transform", `translate(${svgWidth-50}, ${svgHeight-25})`);
+  .attr("transform", `translate(${svgWidth-200}, ${svgHeight-10})`);
 
 var stateSelectionGroup = svg.append("g")
   .classed("state-group", true)
@@ -79,19 +85,19 @@ function rebuildData(metricSelection, stateSelection){
 for (i = 0; i < rawData.length; i++) {
   if (rawData[i].y === metricSelection) {
     metricSelectionGroup.append("text")
-      .attr("x", -svgWidth + 190 + i*185)
-      .attr("y", -svgHeight + margin.top - 25)
+      .attr("x", -svgWidth + 215)
+      .attr("y", -svgHeight + margin.top + i*20)
       .attr("value", rawData[i].y) // value to grab for event listener
-      .classed("metric-group", true)
+      .classed("metric", true)
       .text(rawData[i].y)
       .style("fill","red");
     }
   else {
     metricSelectionGroup.append("text")
-      .attr("x", -svgWidth + 190 + i*185)
-      .attr("y", -svgHeight + margin.top - 25)
+      .attr("x", -svgWidth + 215)
+      .attr("y", -svgHeight + margin.top + i*20)
       .attr("value", rawData[i].y) // value to grab for event listener
-      .classed("metric-group", true)
+      .classed("metric", true)
       .text(rawData[i].y);
   }};
 
@@ -102,7 +108,7 @@ for (j = 0; j < 26; j++) {
       .attr("x", margin.right + 500)
       .attr("y", 0 - svgHeight+margin.top + j*20)
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
-      .classed("state-group", true)
+      .classed("state", true)
       .text(rawData[0].series[j].name)
       .style("fill","red");
     }
@@ -111,7 +117,7 @@ for (j = 0; j < 26; j++) {
       .attr("x", margin.right + 500)
       .attr("y", 0 - svgHeight+margin.top + j*20)
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
-      .classed("state-group", true)
+      .classed("state", true)
       .text(rawData[0].series[j].name)
   }};
 
@@ -122,7 +128,7 @@ for (j = 26; j < rawData[0].series.length; j++) {
       .attr("x", margin.right + 500)
       .attr("y", 0 - svgHeight+margin.top + j*20)
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
-      .classed("state-group", true)
+      .classed("state", true)
       .text(rawData[0].series[j].name)
       .style("fill","red");
     }
@@ -131,7 +137,7 @@ for (j = 26; j < rawData[0].series.length; j++) {
       .attr("x", margin.right + 500)
       .attr("y", 0 - svgHeight+margin.top + j*20)
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
-      .classed("state-group", true)
+      .classed("state", true)
       .text(rawData[0].series[j].name)
   }};
 
@@ -188,7 +194,7 @@ function buildGraph(buildData, metricIndex, stateIndex) {
 
   var xTimeScale1 = d3.scaleTime()
     .domain(d3.extent(buildData[0].dates))
-    .range([0, width-150]);
+    .range([0, width-225]);
 
   var yLinearScale1 = d3.scaleLinear()
     .domain([0, d3.max(buildData[0].series, d => d3.max(d.values))]).nice()
@@ -209,6 +215,7 @@ function buildGraph(buildData, metricIndex, stateIndex) {
   // append y axis
   var yAxis = chartGroup.append("g")
     .classed("y-axis", true)
+    // .attr("transform", `translate(25, 0)`)
     .call(leftAxis);
 
   // create group for data
