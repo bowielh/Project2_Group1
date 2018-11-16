@@ -4,19 +4,19 @@
 }
 
 .x-axis {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .y-axis {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .state {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .metric {
-  font-size: 14px;
+  font-size: 16px;
   /* border-style: solid;
   border-width: 5px; */
 }
@@ -36,7 +36,7 @@
     left: 0;
 }
 
-h2 {
+h1 {
   text-align: center;
 }
 
@@ -60,7 +60,7 @@ body {
 
 .container-fluid {
   background-color: #ebeaed;
-  padding: 5%;
+  /* padding: 5%; */
   /* padding-bottom: 20%;
   padding-left: 2%; */
 }

@@ -42,33 +42,56 @@ var svg = d3
   .attr("viewBox", "0 0 1350 600")
   .classed("svg-content", true);
 
-
-
 // Append an SVG group
 var chartGroup = svg.append("g")
   .classed("chart-content",true)
   .attr("transform", `translate(${margin.left+100}, ${margin.top})`)
-  // .append("rect")
-  // .style("stroke", "black")
-  // .style("stroke-width", 5)
-  // .style("fill","none")
-  // .style("opacity", 0.5)
-  // .attr("width", width)
-  // .attr("height", height);
 
+chartGroup
+  .append("rect")
+  .attr("x", -20)
+  .attr("y", -30)
+  .style("stroke", "black")
+  .style("stroke-width", 1.5)
+  .style("fill","none")
+  .style("opacity", 0.5)
+  .attr("width", 950)
+  .attr("height", 570);
 
 // Create user selection groups for metric and state
 var metricSelectionGroup = svg.append("g")
   .classed("metric-group", true)
-  .attr("transform", `translate(${svgWidth-200}, ${svgHeight-10})`);
+  .attr("transform", `translate(${svgWidth-215}, ${svgHeight})`);
+
+metricSelectionGroup
+  .append("rect")
+  .attr("x", -1130)
+  .attr("y", -580)
+  .style("stroke", "black")
+  .style("stroke-width", 1.5)
+  .style("fill","none")
+  .style("opacity", 0.5)
+  .attr("width", 150)
+  .attr("height", 570);
 
 var stateSelectionGroup = svg.append("g")
   .classed("state-group", true)
-  .attr("transform", `translate(${(svgWidth-250)/2}, ${svgHeight-10})`);
+  .attr("transform", `translate(${(svgWidth-310)/2}, ${svgHeight})`);
+
+stateSelectionGroup
+  .append("rect")
+  .attr("x", 585)
+  .attr("y", -580)
+  .style("stroke", "black")
+  .style("stroke-width", 1.5)
+  .style("fill","none")
+  .style("opacity", 0.5)
+  .attr("width", 240)
+  .attr("height", 570);
 
 var stateSelectionGroup2 = svg.append("g")
   .classed("state-group", true)
-  .attr("transform", `translate(${(svgWidth/2)-25}, ${svgHeight-530})`);
+  .attr("transform", `translate(${(svgWidth/2)-45}, ${svgHeight-520})`);
 
 function rebuildData(metricSelection, stateSelection){
   var newMetricIndex = rawData.findIndex(d => d.y === metricSelection)
@@ -85,8 +108,8 @@ function rebuildData(metricSelection, stateSelection){
 for (i = 0; i < rawData.length; i++) {
   if (rawData[i].y === metricSelection) {
     metricSelectionGroup.append("text")
-      .attr("x", -svgWidth + 215)
-      .attr("y", -svgHeight + margin.top + i*20)
+      .attr("x", -svgWidth + 230)
+      .attr("y", -svgHeight + margin.top + i*50)
       .attr("value", rawData[i].y) // value to grab for event listener
       .classed("metric", true)
       .text(rawData[i].y)
@@ -94,8 +117,8 @@ for (i = 0; i < rawData.length; i++) {
     }
   else {
     metricSelectionGroup.append("text")
-      .attr("x", -svgWidth + 215)
-      .attr("y", -svgHeight + margin.top + i*20)
+      .attr("x", -svgWidth + 230)
+      .attr("y", -svgHeight + margin.top + i*50)
       .attr("value", rawData[i].y) // value to grab for event listener
       .classed("metric", true)
       .text(rawData[i].y);
@@ -105,7 +128,7 @@ for (i = 0; i < rawData.length; i++) {
 for (j = 0; j < 26; j++) {
   if (stateSelection.includes(rawData[0].series[j].name)) {
     stateSelectionGroup.append("text")
-      .attr("x", margin.right + 500)
+      .attr("x", margin.right + 495)
       .attr("y", 0 - svgHeight+margin.top + j*20)
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
       .classed("state", true)
@@ -114,7 +137,7 @@ for (j = 0; j < 26; j++) {
     }
   else {
     stateSelectionGroup.append("text")
-      .attr("x", margin.right + 500)
+      .attr("x", margin.right + 495)
       .attr("y", 0 - svgHeight+margin.top + j*20)
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
       .classed("state", true)
@@ -125,7 +148,7 @@ for (j = 0; j < 26; j++) {
 for (j = 26; j < rawData[0].series.length; j++) {
   if (stateSelection.includes(rawData[0].series[j].name)) {
     stateSelectionGroup2.append("text")
-      .attr("x", margin.right + 500)
+      .attr("x", margin.right + 495)
       .attr("y", 0 - svgHeight+margin.top + j*20)
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
       .classed("state", true)
@@ -134,7 +157,7 @@ for (j = 26; j < rawData[0].series.length; j++) {
     }
   else {
     stateSelectionGroup2.append("text")
-      .attr("x", margin.right + 500)
+      .attr("x", margin.right + 495)
       .attr("y", 0 - svgHeight+margin.top + j*20)
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
       .classed("state", true)
@@ -194,7 +217,7 @@ function buildGraph(buildData, metricIndex, stateIndex) {
 
   var xTimeScale1 = d3.scaleTime()
     .domain(d3.extent(buildData[0].dates))
-    .range([0, width-225]);
+    .range([0, width-300]);
 
   var yLinearScale1 = d3.scaleLinear()
     .domain([0, d3.max(buildData[0].series, d => d3.max(d.values))]).nice()
@@ -209,13 +232,13 @@ function buildGraph(buildData, metricIndex, stateIndex) {
   // append x axis
   var xAxis = chartGroup.append("g")
     .classed("x-axis", true)
-    .attr("transform", `translate(0, ${height})`)
+    .attr("transform", `translate(25, ${height})`)
     .call(bottomAxis.ticks(width/75).tickSizeOuter(0));
 
   // append y axis
   var yAxis = chartGroup.append("g")
     .classed("y-axis", true)
-    // .attr("transform", `translate(25, 0)`)
+    .attr("transform", `translate(25, 0)`)
     .call(leftAxis);
 
   // create group for data
@@ -226,13 +249,14 @@ function buildGraph(buildData, metricIndex, stateIndex) {
   var line = d3.line()
     .defined(d => !isNaN(d))
     .x((d,i) => xTimeScale1(buildData[0].dates[i]))
-    .y(d => yLinearScale1(d));
+    .y(d => yLinearScale1(d))
 
   dataGroup.selectAll("path")
     .data(buildData[0].series)
     .enter()
     .append("path")
     .style("mix-blend-mode", "multiply")
+    .attr("transform", `translate(25, 0)`)
     .attr("d", d => line(d.values))
     .classed("line green", true);
 }
