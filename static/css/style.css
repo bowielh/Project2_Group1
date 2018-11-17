@@ -1,14 +1,17 @@
 
 .blue {
-  stroke: steelblue;
+  stroke: blue;
+  stroke-width: 1.5px;
 }
 
 .x-axis {
   font-size: 16px;
+  stroke-width: 1.5px;
 }
 
 .y-axis {
   font-size: 16px;
+  stroke-width: 1.5px;
 }
 
 .state {

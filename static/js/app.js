@@ -17,7 +17,7 @@ rawData.forEach(function(d) {
 
 // Initial Params
 var metricSelection = "Employment(M)"
-var stateSelection = ["Alaska", "California", "Colorado", "Maine", "Massachusetts", "Nevada", "Oregon", "Vermont", "Washington", "Wash D.C."]
+var stateSelection = ["Colorado", "Oregon", "Washington"]
 
 var metricIndex = rawData.findIndex(d => d.y === metricSelection)
 var stateIndex = rawData[metricIndex].series.findIndex(d => d.name === stateSelection)
@@ -113,7 +113,7 @@ for (i = 0; i < rawData.length; i++) {
       .attr("value", rawData[i].y) // value to grab for event listener
       .classed("metric", true)
       .text(rawData[i].y)
-      .style("fill","red");
+      .style("fill","blue");
     }
   else {
     metricSelectionGroup.append("text")
@@ -121,7 +121,8 @@ for (i = 0; i < rawData.length; i++) {
       .attr("y", -svgHeight + margin.top + i*50)
       .attr("value", rawData[i].y) // value to grab for event listener
       .classed("metric", true)
-      .text(rawData[i].y);
+      .text(rawData[i].y)
+      .style("fill","grey");
   }};
 
 // Loop through states to population 1st state selection group
@@ -133,7 +134,7 @@ for (j = 0; j < 26; j++) {
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
       .classed("state", true)
       .text(rawData[0].series[j].name)
-      .style("fill","red");
+      .style("fill","blue");
     }
   else {
     stateSelectionGroup.append("text")
@@ -142,6 +143,7 @@ for (j = 0; j < 26; j++) {
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
       .classed("state", true)
       .text(rawData[0].series[j].name)
+      .style("fill","grey");
   }};
 
 // Loop through states to population 2nd state selection group
@@ -153,7 +155,7 @@ for (j = 26; j < rawData[0].series.length; j++) {
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
       .classed("state", true)
       .text(rawData[0].series[j].name)
-      .style("fill","red");
+      .style("fill","blue");
     }
   else {
     stateSelectionGroup2.append("text")
@@ -162,6 +164,7 @@ for (j = 26; j < rawData[0].series.length; j++) {
       .attr("value", rawData[0].series[j].name) // value to grab for event listener
       .classed("state", true)
       .text(rawData[0].series[j].name)
+      .style("fill","grey");
   }};
 
 // Event listners
@@ -171,11 +174,11 @@ stateSelectionGroup.selectAll("text")
 
     if (stateSelection.includes(value)) {
       stateSelection = stateSelection.filter(function removeData(data) {return data !== value});
-      d3.select(this).style("fill","black");
+      d3.select(this).style("fill","grey");
     }
     else {
       stateSelection.push(value);
-      d3.select(this).style("fill","red");
+      d3.select(this).style("fill","blue");
     };
 
   rebuildData(metricSelection, stateSelection)
@@ -187,11 +190,11 @@ stateSelectionGroup2.selectAll("text")
 
     if (stateSelection.includes(value)) {
       stateSelection = stateSelection.filter(function removeData(data) {return data !== value});
-      d3.select(this).style("fill","black");
+      d3.select(this).style("fill","grey");
     }
     else {
       stateSelection.push(value);
-      d3.select(this).style("fill","red");
+      d3.select(this).style("fill","blue");
     };
 
   rebuildData(metricSelection, stateSelection)
@@ -203,8 +206,8 @@ metricSelectionGroup.selectAll("text")
 
     if (metricSelection !== value) {
       metricSelection = value
-      metricSelectionGroup.selectAll("text").style("fill","black")
-      d3.select(this).style("fill","red");
+      metricSelectionGroup.selectAll("text").style("fill","grey")
+      d3.select(this).style("fill","blue");
     }
 
   rebuildData(metricSelection, stateSelection)
@@ -232,13 +235,13 @@ function buildGraph(buildData, metricIndex, stateIndex) {
   // append x axis
   var xAxis = chartGroup.append("g")
     .classed("x-axis", true)
-    .attr("transform", `translate(25, ${height})`)
+    .attr("transform", `translate(35, ${height})`)
     .call(bottomAxis.ticks(width/75).tickSizeOuter(0));
 
   // append y axis
   var yAxis = chartGroup.append("g")
     .classed("y-axis", true)
-    .attr("transform", `translate(25, 0)`)
+    .attr("transform", `translate(35, 0)`)
     .call(leftAxis);
 
   // create group for data
@@ -256,7 +259,7 @@ function buildGraph(buildData, metricIndex, stateIndex) {
     .enter()
     .append("path")
     .style("mix-blend-mode", "multiply")
-    .attr("transform", `translate(25, 0)`)
+    .attr("transform", `translate(35, 0)`)
     .attr("d", d => line(d.values))
     .classed("line blue", true);
 
@@ -265,21 +268,21 @@ function buildGraph(buildData, metricIndex, stateIndex) {
   //   .enter()
   //   .append("text")
 
-    var toolTip = d3.tip()
-      .attr("class", "tooltip")
-      .direction("n")
-      .html(function(d) {
-        return (`${buildData[0].series}`);
-      });
+  var toolTip = d3.tip()
+    .attr("class", "tooltip")
+    .direction("n")
+    .html(function(d) {
+      return (`${buildData[0].series.name}`);
+    });
 
-    dataGroup.call(toolTip);
+  dataGroup.call(toolTip);
 
-    dataGroup.on("mouseover", function(data) {
-      toolTip.show(data, this);
-    })
-      .on("mouseout", function(data, index) {
-        toolTip.hide(data);
-      });
+  dataGroup.on("mouseover", function(data) {
+    toolTip.show(data, this);
+  })
+    .on("mouseout", function(data, index) {
+      toolTip.hide(data);
+    });
 
     return dataGroup;
 
