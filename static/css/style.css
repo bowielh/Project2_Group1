@@ -62,6 +62,11 @@ html {
   margin: 20px;
 }
 
+.holder {
+  margin: auto;
+  width: 75%;
+}
+
 body {
   background-color: #ebeaed;
 }
@@ -143,3 +148,7 @@ img {
     font-size: 1.25em;
     text-align: center;
   }
+
+li {
+  font-size: 24px;
+}
