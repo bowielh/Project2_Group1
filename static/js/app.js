@@ -263,41 +263,15 @@ function buildGraph(buildData, metricIndex, stateIndex) {
     .attr("d", d => line(d.values))
     .classed("line blue", true)
 
-  // dataGroup.selectAll()
-  // .data(buildData[0].series).enter()
-  // .append('text')
-  // .html(d => d.name)
-  // .attr('fill', "red")
-  // // .attr('alignment-baseline', 'middle')
-  // // .attr('x', width)
-  // // .attr('dx', '.5em')
-  // // .attr('y', height);
-
+  var textGroup = dataGroup.selectAll("text")
+    .data(buildData[0].series)
+    .enter()
+    .append("text")
+    .html(function(d) {return (`${d.name}`);})
+    .attr('fill', "black")
+    .attr('alignment-baseline', 'right')
+    .attr('x', 800)
+    .attr('y', d => yLinearScale1(d.values[d.values.length-1]));
 };
-
-  // var textGroup = dataGroup.selectAll("text")
-  //   .data(buildData[0].series)
-  //   .enter()
-  //   .append("text")
-//
-//   var toolTip = d3.tip()
-//     .attr("class", "tooltip")
-//     .direction("n")
-//     .html(function(d) {
-//       return (`${buildData[0].series.name}`);
-//     });
-//
-//   dataGroup.call(toolTip);
-//
-//   dataGroup.on("mouseover", function(data) {
-//     toolTip.show(data, this);
-//   })
-//     .on("mouseout", function(data, index) {
-//       toolTip.hide(data);
-//     });
-//
-//     return dataGroup;
-//
-// }
 
 rebuildData(metricSelection, stateSelection);
