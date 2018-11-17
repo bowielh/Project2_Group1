@@ -25,8 +25,9 @@ The dataset we will be using contains information about the states that have leg
 4. Our alternative hypothesis assumes that the true mean difference between the paired samples is not equal to zero and it might be due to herb legalization.
 
 ## Future Scope:
-1. To dive further into other key elements such as Crime Rates and Vehicle Accident Rates and explore how these are also affected by the legalization of Marijuana.
+1. To dive further into other key elements such as Vehicle Accident Rates and explore how these are also affected by the legalization of Marijuana.
 2.  Study the costs associated with Marijuana legalization such as Drug Testing, Litigation, Cops, License etc. To weigh all the pros and cons to decide whether it's profitable or not.
+3. To predict the pattern of how/when does a state legalize Marijuana. 
 
 ![ProjectIcon](Images/5-Readme-Conclusion.jpg)
 
