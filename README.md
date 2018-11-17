@@ -29,3 +29,8 @@ The dataset we will be using contains information about the states that have leg
 2.  Study the costs associated with Marijuana legalization such as Drug Testing, Litigation, Cops, License etc. To weigh all the pros and cons to decide whether it's profitable or not.
 
 ![ProjectIcon](Images/5-Readme-Conclusion.jpg)
+
+## Sources:
+1. [U.S. Bureau of Economic Analysis (BEA)](https://www.bea.gov/)
+2. [Uniform Crime Reporting (UCR) Program — FBI](https://www.fbi.gov/services/cjis/ucr)
+3. Uniform Crime Reporting (UCR) Program — FBI,
