@@ -258,7 +258,31 @@ function buildGraph(buildData, metricIndex, stateIndex) {
     .style("mix-blend-mode", "multiply")
     .attr("transform", `translate(25, 0)`)
     .attr("d", d => line(d.values))
-    .classed("line green", true);
+    .classed("line blue", true);
+
+  // var textGroup = dataGroup.selectAll("text")
+  //   .data(buildData[0].series)
+  //   .enter()
+  //   .append("text")
+
+    var toolTip = d3.tip()
+      .attr("class", "tooltip")
+      .direction("n")
+      .html(function(d) {
+        return (`${buildData[0].series}`);
+      });
+
+    dataGroup.call(toolTip);
+
+    dataGroup.on("mouseover", function(data) {
+      toolTip.show(data, this);
+    })
+      .on("mouseout", function(data, index) {
+        toolTip.hide(data);
+      });
+
+    return dataGroup;
+
 }
 
 rebuildData(metricSelection, stateSelection);
