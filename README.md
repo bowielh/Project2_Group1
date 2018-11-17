@@ -33,4 +33,5 @@ The dataset we will be using contains information about the states that have leg
 ## Sources:
 1. [U.S. Bureau of Economic Analysis (BEA)](https://www.bea.gov/)
 2. [Uniform Crime Reporting (UCR) Program — FBI](https://www.fbi.gov/services/cjis/ucr)
-3. Uniform Crime Reporting (UCR) Program — FBI,
+3. [United States Census Bureau](https://www.census.gov/en.html)
+4. [Annual Survey of State Government Tax Collections (STC)](https://www.census.gov/programs-surveys/stc/data/datasets.html)
