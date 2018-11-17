@@ -16,7 +16,7 @@ rawData.forEach(function(d) {
 });
 
 // Initial Params
-var metricSelection = "Employment(M)"
+var metricSelection = "GDP-Total($T)"
 var stateSelection = ["Colorado", "Oregon", "Washington"]
 
 var metricIndex = rawData.findIndex(d => d.y === metricSelection)
@@ -261,31 +261,43 @@ function buildGraph(buildData, metricIndex, stateIndex) {
     .style("mix-blend-mode", "multiply")
     .attr("transform", `translate(35, 0)`)
     .attr("d", d => line(d.values))
-    .classed("line blue", true);
+    .classed("line blue", true)
+
+  // dataGroup.selectAll()
+  // .data(buildData[0].series).enter()
+  // .append('text')
+  // .html(d => d.name)
+  // .attr('fill', "red")
+  // // .attr('alignment-baseline', 'middle')
+  // // .attr('x', width)
+  // // .attr('dx', '.5em')
+  // // .attr('y', height);
+
+};
 
   // var textGroup = dataGroup.selectAll("text")
   //   .data(buildData[0].series)
   //   .enter()
   //   .append("text")
-
-  var toolTip = d3.tip()
-    .attr("class", "tooltip")
-    .direction("n")
-    .html(function(d) {
-      return (`${buildData[0].series.name}`);
-    });
-
-  dataGroup.call(toolTip);
-
-  dataGroup.on("mouseover", function(data) {
-    toolTip.show(data, this);
-  })
-    .on("mouseout", function(data, index) {
-      toolTip.hide(data);
-    });
-
-    return dataGroup;
-
-}
+//
+//   var toolTip = d3.tip()
+//     .attr("class", "tooltip")
+//     .direction("n")
+//     .html(function(d) {
+//       return (`${buildData[0].series.name}`);
+//     });
+//
+//   dataGroup.call(toolTip);
+//
+//   dataGroup.on("mouseover", function(data) {
+//     toolTip.show(data, this);
+//   })
+//     .on("mouseout", function(data, index) {
+//       toolTip.hide(data);
+//     });
+//
+//     return dataGroup;
+//
+// }
 
 rebuildData(metricSelection, stateSelection);
